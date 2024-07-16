@@ -1,18 +1,22 @@
 Script started on 2024-07-16 11:50:40-04:00 [TERM="xterm-256color" TTY="/dev/pts/12" COLUMNS="96" LINES="44"]
 [?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ java -version
-[?2004lopenjdk version "1.8.0_412"
+[?2004l
+openjdk version "1.8.0_412"
 OpenJDK Runtime Environment (build 1.8.0_412-8u412-ga-1~22.04.1-b08)
 OpenJDK 64-Bit Server VM (build 25.412-b08, mixed mode)
 [?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ exit
-[?2004lexit
+[?2004l
+exit
 
 Script done on 2024-07-16 11:51:39-04:00 [COMMAND_EXIT_CODE="0"]
 Script started on 2024-07-16 11:51:59-04:00 [TERM="xterm-256color" TTY="/dev/pts/12" COLUMNS="96" LINES="44"]
 [?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ exitjava -version
-[?2004lopenjdk version "1.8.0_412"
+[?2004l
+openjdk version "1.8.0_412"
 OpenJDK Runtime Environment (build 1.8.0_412-8u412-ga-1~22.04.1-b08)
 OpenJDK 64-Bit Server VM (build 25.412-b08, mixed mode)
 [?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ exit
-[?2004lexit
+[?2004l
+exit
 
 Script done on 2024-07-16 11:52:17-04:00 [COMMAND_EXIT_CODE="0"]
