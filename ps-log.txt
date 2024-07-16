@@ -1,0 +1,1139 @@
+Script started on 2024-07-16 10:42:05-04:00 [TERM="xterm-256color" TTY="/dev/pts/7" COLUMNS="96" LINES="44"]
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ script
+[?2004lScript started, output log file is 'typescript'.
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ [?2004l
+exit
+Script done.
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ exit
+[?2004lexit
+
+Script done on 2024-07-16 10:42:27-04:00 [COMMAND_EXIT_CODE="0"]
+Script started on 2024-07-16 11:01:44-04:00 [TERM="xterm-256color" TTY="/dev/pts/7" COLUMNS="96" LINES="44"]
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ exitscript[1Pclearssh devops@192.168.206.129clear[Kssh devops@192.168.206.129clear[Ksudo apt install afterstepclear[Kssh devops@192.168.206.129clear[Kssh devops@192.168.206.129clear[Kscript[2Pexit[Kexitscript[1Pclearssh devops@192.168.206.129clear[Kssh devops@192.168.206.129clear[Ksudo apt install afterstep[6PBanner /etc/mybannerexit[Kuptime[3Ppwdvim /etc/resolf.confcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvim[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cpwd[Kuptime[2PexitBanner /etc/mybannersudo apt install afterstepclear[Kssh devops@192.168.206.129clear[Kssh devops@192.168.206.129clear[Kscript[2Pexit[Kps aux
+[?2004lUSER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.4 167940  9316 ?        Ss   01:42   0:11 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    01:42   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   01:42   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   01:42   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   01:42   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<   01:42   0:00 [netns]
+root          11  0.0  0.0      0     0 ?        I<   01:42   0:00 [mm_percpu_wq]
+root          12  0.0  0.0      0     0 ?        I    01:42   0:00 [rcu_tasks_kthread]
+root          13  0.0  0.0      0     0 ?        I    01:42   0:00 [rcu_tasks_rude_kthread]
+root          14  0.0  0.0      0     0 ?        I    01:42   0:00 [rcu_tasks_trace_kthread]
+root          15  0.0  0.0      0     0 ?        S    01:42   0:02 [ksoftirqd/0]
+root          16  0.1  0.0      0     0 ?        I    01:42   0:42 [rcu_preempt]
+root          17  0.0  0.0      0     0 ?        S    01:42   0:01 [migration/0]
+root          18  0.0  0.0      0     0 ?        S    01:42   0:00 [idle_inject/0]
+root          19  0.0  0.0      0     0 ?        S    01:42   0:00 [cpuhp/0]
+root          20  0.0  0.0      0     0 ?        S    01:42   0:00 [cpuhp/1]
+root          21  0.0  0.0      0     0 ?        S    01:42   0:00 [idle_inject/1]
+root          22  0.0  0.0      0     0 ?        S    01:42   0:01 [migration/1]
+root          23  0.0  0.0      0     0 ?        S    01:42   0:16 [ksoftirqd/1]
+root          26  0.0  0.0      0     0 ?        S    01:42   0:00 [kdevtmpfs]
+root          27  0.0  0.0      0     0 ?        I<   01:42   0:00 [inet_frag_wq]
+root          29  0.0  0.0      0     0 ?        S    01:42   0:00 [kauditd]
+root          31  0.0  0.0      0     0 ?        S    01:42   0:00 [khungtaskd]
+root          33  0.0  0.0      0     0 ?        S    01:42   0:00 [oom_reaper]
+root          34  0.0  0.0      0     0 ?        I<   01:42   0:00 [writeback]
+root          35  0.0  0.0      0     0 ?        S    01:42   0:09 [kcompactd0]
+root          36  0.0  0.0      0     0 ?        SN   01:42   0:00 [ksmd]
+root          37  0.0  0.0      0     0 ?        SN   01:42   0:00 [khugepaged]
+root          38  0.0  0.0      0     0 ?        I<   01:42   0:00 [kintegrityd]
+root          39  0.0  0.0      0     0 ?        I<   01:42   0:00 [kblockd]
+root          40  0.0  0.0      0     0 ?        I<   01:42   0:00 [blkcg_punt_bio]
+root          42  0.0  0.0      0     0 ?        I<   01:42   0:00 [tpm_dev_wq]
+root          43  0.0  0.0      0     0 ?        I<   01:42   0:00 [ata_sff]
+root          44  0.0  0.0      0     0 ?        I<   01:42   0:00 [md]
+root          45  0.0  0.0      0     0 ?        I<   01:42   0:00 [md_bitmap]
+root          46  0.0  0.0      0     0 ?        I<   01:42   0:00 [edac-poller]
+root          47  0.0  0.0      0     0 ?        I<   01:42   0:00 [devfreq_wq]
+root          48  0.0  0.0      0     0 ?        S    01:42   0:00 [watchdogd]
+root          50  0.0  0.0      0     0 ?        S    01:42   0:11 [kswapd0]
+root          51  0.0  0.0      0     0 ?        S    01:42   0:00 [ecryptfs-kthread]
+root          52  0.0  0.0      0     0 ?        I<   01:42   0:00 [kthrotld]
+root          53  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/24-pciehp]
+root          54  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/25-pciehp]
+root          55  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/26-pciehp]
+root          56  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/27-pciehp]
+root          57  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/28-pciehp]
+root          58  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/29-pciehp]
+root          59  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/30-pciehp]
+root          60  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/31-pciehp]
+root          61  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/32-pciehp]
+root          62  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/33-pciehp]
+root          63  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/34-pciehp]
+root          64  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/35-pciehp]
+root          65  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/36-pciehp]
+root          66  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/37-pciehp]
+root          67  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/38-pciehp]
+root          68  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/39-pciehp]
+root          69  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/40-pciehp]
+root          70  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/41-pciehp]
+root          71  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/42-pciehp]
+root          72  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/43-pciehp]
+root          73  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/44-pciehp]
+root          74  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/45-pciehp]
+root          75  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/46-pciehp]
+root          76  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/47-pciehp]
+root          77  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/48-pciehp]
+root          78  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/49-pciehp]
+root          79  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/50-pciehp]
+root          80  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/51-pciehp]
+root          81  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/52-pciehp]
+root          82  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/53-pciehp]
+root          83  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/54-pciehp]
+root          84  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/55-pciehp]
+root          85  0.0  0.0      0     0 ?        I<   01:42   0:00 [acpi_thermal_pm]
+root          86  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_0]
+root          87  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_0]
+root          88  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_1]
+root          89  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_1]
+root          93  0.0  0.0      0     0 ?        I<   01:42   0:00 [mld]
+root          94  0.0  0.0      0     0 ?        I<   01:42   0:00 [ipv6_addrconf]
+root         102  0.0  0.0      0     0 ?        I<   01:42   0:00 [kstrp]
+root         104  0.0  0.0      0     0 ?        I<   01:42   0:00 [kworker/u257:0-hci0]
+root         108  0.0  0.0      0     0 ?        I<   01:42   0:00 [charger_manager]
+root         148  0.0  0.0      0     0 ?        I<   01:42   0:00 [mpt_poll_0]
+root         149  0.0  0.0      0     0 ?        I<   01:42   0:00 [mpt/0]
+root         150  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_2]
+root         151  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_2]
+root         152  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_3]
+root         153  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_3]
+root         154  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_4]
+root         155  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_4]
+root         156  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_5]
+root         157  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_5]
+root         158  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_6]
+root         159  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_6]
+root         160  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_7]
+root         161  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_7]
+root         162  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_8]
+root         163  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_8]
+root         164  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_9]
+root         165  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_9]
+root         166  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_10]
+root         167  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_10]
+root         168  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_11]
+root         169  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_11]
+root         170  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_12]
+root         171  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_12]
+root         172  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_13]
+root         173  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_13]
+root         174  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_14]
+root         175  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_14]
+root         176  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_15]
+root         177  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_15]
+root         178  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_16]
+root         179  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_16]
+root         180  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_17]
+root         181  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_17]
+root         182  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_18]
+root         183  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_18]
+root         184  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_19]
+root         185  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_19]
+root         186  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_20]
+root         187  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_20]
+root         188  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_21]
+root         189  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_21]
+root         190  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_22]
+root         191  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_22]
+root         192  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_23]
+root         193  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_23]
+root         194  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_24]
+root         195  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_24]
+root         196  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_25]
+root         197  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_25]
+root         198  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_26]
+root         199  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_26]
+root         200  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_27]
+root         201  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_27]
+root         202  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_28]
+root         203  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_28]
+root         204  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_29]
+root         205  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_29]
+root         206  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_30]
+root         207  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_30]
+root         208  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_31]
+root         209  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_31]
+root         214  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_32]
+root         216  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_32]
+root         270  0.0  0.0      0     0 ?        S    01:42   0:02 [jbd2/sda3-8]
+root         271  0.0  0.0      0     0 ?        I<   01:42   0:00 [ext4-rsv-conver]
+root         310  0.0  0.8  64692 16460 ?        S<s  01:43   0:05 /lib/systemd/systemd-journald
+root         342  0.0  0.0      0     0 ?        S    01:43   0:09 [irq/16-vmwgfx]
+root         343  0.0  0.0      0     0 ?        I<   01:43   0:00 [ttm]
+root         350  0.0  0.0 152564  1164 ?        Ssl  01:43   0:00 vmware-vmblock-fuse /run/vmbl
+root         371  0.0  0.1  26824  3840 ?        Ss   01:43   0:01 /lib/systemd/systemd-udevd
+root         523  0.0  0.0      0     0 ?        S    01:43   0:01 [irq/57-vmw_vmci]
+root         524  0.0  0.0      0     0 ?        S    01:43   0:00 [irq/58-vmw_vmci]
+root         525  0.0  0.0      0     0 ?        S    01:43   0:00 [irq/59-vmw_vmci]
+root         577  0.0  0.0      0     0 ?        I<   01:43   0:00 [kworker/u257:2-hci0]
+systemd+     618  0.5  0.2  14836  5120 ?        Ss   01:43   3:17 /lib/systemd/systemd-oomd
+systemd+     620  0.0  0.3  25804  7776 ?        Ss   01:43   0:04 /lib/systemd/systemd-resolved
+systemd+     623  0.0  0.2  89388  5760 ?        Ssl  01:43   0:00 /lib/systemd/systemd-timesync
+root         636  0.0  0.3  53748  7296 ?        Ss   01:43   0:00 /usr/bin/VGAuthService
+root         643  0.6  0.3 317468  7040 ?        Ssl  01:43   3:31 /usr/bin/vmtoolsd
+root         765  0.0  0.3 239908  7256 ?        Ssl  01:43   0:03 /usr/libexec/accounts-daemon
+root         772  0.0  0.0   2816  1920 ?        Ss   01:43   0:04 /usr/sbin/acpid
+avahi        781  0.0  0.1   7632  3456 ?        Ss   01:43   0:02 avahi-daemon: running [devops
+root         789  0.0  0.1   9496  2816 ?        Ss   01:43   0:00 /usr/sbin/cron -f -P
+message+     790  0.0  0.2  11108  5888 ?        Ss   01:43   0:05 @dbus-daemon --system --addre
+root         795  0.0  0.7 408948 14944 ?        Ssl  01:43   0:09 /usr/sbin/NetworkManager --no
+root         816  0.0  0.1  82832  3840 ?        Ssl  01:43   0:03 /usr/sbin/irqbalance --foregr
+root         822  0.0  0.4  41040  8320 ?        Ss   01:43   0:00 /usr/bin/python3 /usr/bin/net
+root         823  0.0  0.5 243076 11368 ?        Ssl  01:43   0:07 /usr/libexec/polkitd --no-deb
+root         826  0.0  0.3 240064  7040 ?        Ssl  01:43   0:00 /usr/libexec/power-profiles-d
+syslog       832  0.0  0.2 222404  4096 ?        Ssl  01:43   0:01 /usr/sbin/rsyslogd -n -iNONE
+root         841  0.0  1.3 1394016 25628 ?       Ssl  01:43   0:18 /usr/lib/snapd/snapd
+root         847  0.0  0.3 236608  6528 ?        Ssl  01:43   0:00 /usr/libexec/switcheroo-contr
+root         860  0.0  0.2  15452  5804 ?        Ss   01:43   0:01 /lib/systemd/systemd-logind
+root         866  0.0  0.4 393020  8368 ?        Ssl  01:43   0:00 /usr/libexec/udisks2/udisksd
+root         869  0.0  0.2  16504  4352 ?        Ss   01:43   0:00 /sbin/wpa_supplicant -u -s -O
+avahi        903  0.0  0.0   7444  1152 ?        S    01:43   0:00 avahi-daemon: chroot helper
+root         923  0.0  0.3 317948  7004 ?        Ssl  01:43   0:00 /usr/sbin/ModemManager
+root         946  0.0  0.5 118060  9984 ?        Ssl  01:43   0:00 /usr/bin/python3 /usr/share/u
+root        1017  0.0  0.4 241228  7936 ?        Ssl  01:43   0:00 /usr/sbin/gdm3
+root        1054  0.0  0.4 318064  8576 ?        Sl   01:43   0:00 gdm-session-worker [pam/gdm-a
+kernoops    1077  0.0  0.0  13092  1956 ?        Ss   01:43   0:00 /usr/sbin/kerneloops --test
+kernoops    1088  0.0  0.0  13092  1828 ?        Ss   01:43   0:00 /usr/sbin/kerneloops
+root        1093  0.0  0.0      0     0 ?        I<   01:43   0:00 [cryptd]
+devops      1139  0.0  0.4  20000  8964 ?        Ss   01:43   0:07 /lib/systemd/systemd --user
+devops      1146  0.0  0.0 104208  1668 ?        S    01:43   0:00 (sd-pam)
+devops      1187  0.0  0.1  39580  3840 ?        S<sl 01:43   0:00 /usr/bin/pipewire
+devops      1188  0.0  0.1  23604  3584 ?        Ssl  01:43   0:00 /usr/bin/pipewire-media-sessi
+devops      1190  0.1  0.8 1498136 17240 ?       S<sl 01:43   0:49 /usr/bin/pulseaudio --daemoni
+rtkit       1193  0.0  0.1 154004  3200 ?        SNsl 01:43   0:02 /usr/libexec/rtkit-daemon
+devops      1195  0.0  0.3 388392  6684 ?        SLl  01:43   0:01 /usr/bin/gnome-keyring-daemon
+devops      1204  0.0  0.2 162392  5760 tty2     Ssl+ 01:43   0:00 /usr/libexec/gdm-wayland-sess
+devops      1206  0.0  0.4  15252  9472 ?        Ss   01:43   0:14 /usr/bin/dbus-daemon --sessio
+devops      1223  0.0  0.5 223044  9856 tty2     Sl+  01:43   0:00 /usr/libexec/gnome-session-bi
+devops      1224  0.0  0.3 240768  7296 ?        Ssl  01:43   0:00 /usr/libexec/gvfsd
+devops      1244  0.0  0.3 380896  6016 ?        Sl   01:43   0:00 /usr/libexec/gvfsd-fuse /run/
+devops      1302  0.0  1.0 720000 21324 ?        SNsl 01:43   0:04 /usr/libexec/tracker-miner-fs
+devops      1321  0.0  0.2  91912  5248 ?        Ssl  01:43   0:00 /usr/libexec/gnome-session-ct
+root        1322  0.0  0.2  10488  4096 ?        Ss   01:43   0:00 /usr/lib/bluetooth/bluetoothd
+devops      1342  0.0  0.5 592860 11520 ?        Ssl  01:43   0:01 /usr/libexec/gnome-session-bi
+devops      1377  0.0  0.3 537032  6912 ?        Ssl  01:43   0:00 /usr/libexec/xdg-document-por
+devops      1384  0.0  0.3 236152  6016 ?        Ssl  01:43   0:00 /usr/libexec/xdg-permission-s
+root        1392  0.0  0.0   2796  1792 ?        Ss   01:43   0:00 fusermount3 -o rw,nosuid,node
+devops      1409  0.0  0.3 309584  7296 ?        Sl   01:43   0:00 /usr/libexec/at-spi-bus-launc
+devops      1411  0.0  0.4 315888  8320 ?        Ssl  01:43   0:00 /usr/libexec/gvfs-udisks2-vol
+devops      1431  0.0  0.1   8564  3840 ?        S    01:43   0:00 /usr/bin/dbus-daemon --config
+devops      1436  1.4  8.6 4474188 170404 ?      Rsl  01:43   7:52 /usr/bin/gnome-shell
+devops      1447  0.0  0.3 237544  6400 ?        Ssl  01:43   0:00 /usr/libexec/gvfs-gphoto2-vol
+devops      1461  0.0  0.3 315216  7296 ?        Ssl  01:43   0:07 /usr/libexec/gvfs-afc-volume-
+devops      1469  0.0  0.3 236636  6144 ?        Ssl  01:43   0:00 /usr/libexec/gvfs-goa-volume-
+devops      1480  0.0  0.7 581908 14208 ?        Sl   01:43   0:00 /usr/libexec/goa-daemon
+devops      1517  0.0  0.5 338404  9856 ?        Sl   01:43   0:00 /usr/libexec/goa-identity-ser
+devops      1525  0.0  0.3 236460  6400 ?        Ssl  01:43   0:00 /usr/libexec/gvfs-mtp-volume-
+root        1545  0.0  0.3 242228  7296 ?        Ssl  01:43   0:00 /usr/libexec/upowerd
+devops      1664  0.0  0.5 582936 11008 ?        Sl   01:43   0:01 /usr/libexec/gnome-shell-cale
+devops      1668  0.0  0.5 754884 10624 ?        Ssl  01:43   0:03 /usr/libexec/xdg-desktop-port
+devops      1675  0.0  0.6 662796 12732 ?        Ssl  01:43   0:02 /usr/libexec/xdg-desktop-port
+devops      1678  0.0  0.6 1072232 12032 ?       Ssl  01:43   0:00 /usr/libexec/evolution-source
+devops      1691  0.0  0.6 1184660 13568 ?       Ssl  01:43   0:01 /usr/libexec/evolution-calend
+root        1698  0.0  2.4 372848 47656 ?        Ssl  01:43   0:30 /usr/libexec/packagekitd
+devops      1708  0.0  0.2 157072  5888 ?        Ssl  01:43   0:00 /usr/libexec/dconf-service
+devops      1711  0.0  0.5 680432 11776 ?        Ssl  01:43   0:00 /usr/libexec/evolution-addres
+devops      1722  0.0  0.4 314864  7936 ?        Sl   01:43   0:00 /usr/libexec/gvfsd-trash --sp
+devops      1738  0.0  0.3 162688  6656 ?        Sl   01:43   0:00 /usr/libexec/at-spi2-registry
+devops      1740  0.0  0.7 2599508 14396 ?       Sl   01:43   0:00 /usr/bin/gjs /usr/share/gnome
+devops      1747  0.0  0.0   2892  1536 ?        Ss   01:43   0:00 sh -c /usr/bin/ibus-daemon --
+devops      1749  0.1  0.4 315116  7928 ?        Sl   01:43   0:58 /usr/bin/ibus-daemon --panel 
+devops      1752  0.0  0.3 310388  6144 ?        Ssl  01:43   0:00 /usr/libexec/gsd-a11y-setting
+devops      1753  0.0  0.7 601700 14696 ?        Ssl  01:43   0:01 /usr/libexec/gsd-color
+devops      1758  0.0  0.5 375428 10496 ?        Ssl  01:43   0:00 /usr/libexec/gsd-datetime
+devops      1765  0.0  0.3 312024  6912 ?        Ssl  01:43   0:01 /usr/libexec/gsd-housekeeping
+devops      1768  0.0  0.5 417468 11472 ?        Ssl  01:43   0:00 /usr/libexec/gsd-keyboard
+devops      1770  0.0  0.7 867400 14596 ?        Ssl  01:43   0:01 /usr/libexec/gsd-media-keys
+devops      1772  0.0  0.7 380020 15364 ?        Ssl  01:43   0:01 /usr/libexec/gsd-power
+devops      1776  0.0  0.3 163484  6528 ?        Sl   01:43   0:00 /usr/libexec/ibus-memconf
+devops      1778  0.0  0.4 249856  8960 ?        Ssl  01:43   0:00 /usr/libexec/gsd-print-notifi
+devops      1779  0.0  0.6 348832 13360 ?        Sl   01:43   0:07 /usr/libexec/ibus-extension-g
+devops      1780  0.0  0.3 457860  6272 ?        Ssl  01:43   0:00 /usr/libexec/gsd-rfkill
+devops      1784  0.0  0.3 237264  6656 ?        Sl   01:43   0:00 /usr/libexec/ibus-portal
+devops      1786  0.0  0.2 236292  5888 ?        Ssl  01:43   0:00 /usr/libexec/gsd-screensaver-
+devops      1792  0.0  0.4 465900  8448 ?        Ssl  01:43   0:00 /usr/libexec/gsd-sharing
+devops      1793  0.5  1.1 143480 21872 ?        Sl   01:43   2:57 /usr/bin/vmtoolsd -n vmusr --
+devops      1802  0.0  0.3 459736  6656 ?        Ssl  01:43   0:00 /usr/libexec/gsd-smartcard
+devops      1804  0.0  0.3 319304  7680 ?        Ssl  01:43   0:00 /usr/libexec/gsd-sound
+devops      1809  0.0  0.5 344332 11776 ?        Ssl  01:43   0:00 /usr/libexec/gsd-wacom
+devops      1836  0.0  0.2 232272  5760 ?        Sl   01:43   0:00 /usr/libexec/gsd-disk-utility
+devops      1844  0.0  1.0 758164 19780 ?        Sl   01:43   0:01 /usr/libexec/evolution-data-s
+devops      1868  0.0  0.5 342360 10496 ?        Sl   01:43   0:00 /usr/libexec/gsd-printer
+devops      1907  0.0  0.3 163612  6912 ?        Sl   01:43   0:17 /usr/libexec/ibus-engine-simp
+colord      1948  0.0  0.4 245420  8040 ?        Ssl  01:43   0:00 /usr/libexec/colord
+devops      1961  0.0  0.8 2599552 16268 ?       Sl   01:43   0:00 /usr/bin/gjs /usr/share/gnome
+devops      1963  0.0  0.5 235736 10676 ?        S    01:43   0:08 /usr/bin/Xwayland :0 -rootles
+devops      1970  0.0  0.6 345428 13048 ?        Ssl  01:43   0:01 /usr/libexec/xdg-desktop-port
+devops      2005  0.0  0.7 547424 15312 ?        Ssl  01:43   0:01 /usr/libexec/gsd-xsettings
+devops      2054  0.0  0.5 194228 11680 ?        Sl   01:43   0:00 /usr/libexec/ibus-x11
+devops      2091  0.0  0.3 163012  6144 ?        Ssl  01:43   0:00 /usr/libexec/gvfsd-metadata
+devops      2170  0.0  0.8 494716 16124 ?        Sl   01:44   0:03 update-notifier
+devops      2406  0.0  0.0  38920   640 ?        Ss   01:48   0:00 /snap/snapd-desktop-integrati
+devops      2560  0.0  0.1 429332  2236 ?        Sl   01:48   0:01 /snap/snapd-desktop-integrati
+root        2749  0.0  0.1  14352  3328 ?        S    02:07   0:00 sudo vim /etc/resolf.conf
+root        2750  0.0  0.0  14352  1456 pts/1    Ss+  02:07   0:00 sudo vim /etc/resolf.conf
+root        2751  0.0  0.1  23660  3072 pts/1    T    02:07   0:00 vim /etc/resolf.conf
+devops      2830  0.0  0.7 691924 15548 ?        Ssl  02:09   0:00 /usr/libexec/gnome-remote-des
+devops      3011  0.0  0.2  46960  5248 ?        Ss   02:19   0:00 /usr/lib/bluetooth/obexd
+devops      3039  0.5  8.8 3093576 174480 ?      Sl   02:19   3:06 /snap/firefox/3836/usr/lib/fi
+devops      3179  0.0  3.4 973436 68236 ?        Sl   02:19   0:17 /snap/snap-store/959/usr/bin/
+devops      3342  0.0  0.6 209292 13696 ?        Sl   02:19   0:00 /snap/firefox/3836/usr/lib/fi
+devops      3560  0.0  1.5 2416516 30028 ?       Sl   02:19   0:02 /snap/firefox/3836/usr/lib/fi
+devops      3588  0.0  3.3 2435688 65036 ?       Sl   02:19   0:06 /snap/firefox/3836/usr/lib/fi
+devops      3620  0.0  0.4 1238524 8500 ?        Sl   02:19   0:03 /usr/bin/snap userd
+devops      3740  0.0  1.7 2434060 35184 ?       Sl   02:19   0:02 /snap/firefox/3836/usr/lib/fi
+devops      4400  0.0 10.2 2736924 200896 ?      Sl   02:19   0:27 /snap/firefox/3836/usr/lib/fi
+devops      4539  0.0  1.7 332844 34296 ?        Sl   02:19   0:00 /snap/firefox/3836/usr/lib/fi
+devops      4561  0.0  2.5 2394052 49228 ?       Sl   02:20   0:00 /snap/firefox/3836/usr/lib/fi
+devops      4800  0.0  0.2   8088  4736 ?        S    02:27   0:00 /usr/bin/ssh-agent -D -a /run
+devops      4886  0.0  0.3 314720  7424 ?        Sl   02:33   0:00 /usr/libexec/gvfsd-recent --s
+devops      5376  0.0  0.3 536288  7552 ?        Sl   03:20   0:01 /usr/libexec/gvfsd-network --
+devops      5396  0.0  0.4 316824  7936 ?        Sl   03:21   0:00 /usr/libexec/gvfsd-dnssd --sp
+devops      6550  0.2  2.0 565236 40172 ?        Ssl  06:32   0:35 /usr/libexec/gnome-terminal-s
+devops      6568  0.0  0.1  11272  3200 pts/2    Ss+  06:32   0:00 bash
+root        7313  0.0  0.4  72996  9728 ?        Ss   08:22   0:00 /usr/sbin/cupsd -l
+root        7318  0.0  0.4 172636  8832 ?        Ssl  08:22   0:00 /usr/sbin/cups-browsed
+systemd+    7368  0.0  0.3  16128  6144 ?        Ss   08:22   0:00 /lib/systemd/systemd-networkd
+root        7635  0.0  0.0      0     0 ?        I<   08:25   0:02 [kworker/1:1H-ttm]
+root        7874  0.0  0.0      0     0 ?        I    08:38   0:04 [kworker/u256:1-events_unboun
+root        8283  0.0  0.2  14516  4304 pts/2    T    10:07   0:00 sudo vim /etc/ssh/sshd_config
+root        8284  0.0  0.0  14516  1644 pts/3    Ss   10:07   0:00 sudo vim /etc/ssh/sshd_config
+root        8285  0.0  0.1  23752  3072 pts/3    T+   10:07   0:00 vim /etc/ssh/sshd_config
+root        8369  0.0  0.2  14348  4224 pts/2    T    10:09   0:00 sudo vim /etc/ssh/sshd_config
+root        8370  0.0  0.0  14348  1588 pts/5    Ss   10:09   0:00 sudo vim /etc/ssh/sshd_config
+root        8371  0.0  0.1  23756  3072 pts/5    T+   10:09   0:00 vim /etc/ssh/sshd_config
+root        8397  0.0  0.3  15432  7040 ?        Ss   10:17   0:00 sshd: /usr/sbin/sshd -D [list
+devops      8843  0.0  0.1   8388  2176 ?        S    10:27   0:00 script
+devops      8844  0.0  0.1  11264  2816 pts/8    Ss   10:27   0:00 bash -i
+devops      8861  0.0  0.1   8388  2304 pts/8    S+   10:27   0:00 script ps-log.txt
+devops      8862  0.0  0.1  11264  3584 pts/9    Ss+  10:27   0:00 bash -i
+root        9255  0.0  0.0      0     0 ?        I<   10:33   0:00 [kworker/1:0H-ttm]
+root        9388  0.0  0.0      0     0 ?        I<   10:34   0:00 [kworker/0:7H-ttm]
+devops      9492  0.3  1.5 1249220 31472 ?       Sl   10:34   0:05 gnome-control-center
+root        9638  0.1  1.5 438876 31060 ?        Ssl  10:35   0:03 /usr/libexec/fwupd/fwupd
+root       10057  0.1  0.0      0     0 ?        I    10:35   0:01 [kworker/u256:4-events_unboun
+devops     10085  0.0  2.7 325660 53888 ?        Sl   10:35   0:00 /snap/firefox/3836/usr/lib/fi
+devops     11058  0.0  0.2  11272  5376 pts/4    Ss   10:38   0:00 bash
+root       11172  0.2  0.0      0     0 ?        I    10:39   0:03 [kworker/0:1-events]
+devops     11252  0.0  0.5  23544 10240 pts/4    T    10:41   0:00 vim ps-log.txt
+root       11255  0.0  0.0      0     0 ?        I<   10:41   0:00 [kworker/0:0H-kblockd]
+devops     11257  0.0  0.1   8388  2304 pts/4    S+   10:41   0:00 script
+devops     11258  0.0  0.2  11272  5376 pts/7    Ss   10:41   0:00 bash -i
+root       11291  1.1  0.0      0     0 ?        I    10:43   0:12 [kworker/1:1-events]
+root       11346  0.6  0.0      0     0 ?        I    10:46   0:05 [kworker/0:0-events]
+root       11351  0.1  0.0      0     0 ?        I    10:48   0:00 [kworker/1:2-events]
+root       11356  0.0  0.0      0     0 ?        I    10:50   0:00 [kworker/u256:0-events_unboun
+devops     11363  0.0  3.5 2386760 70272 ?       Sl   10:50   0:00 /snap/firefox/3836/usr/lib/fi
+devops     11402  0.0  3.5 2386760 70144 ?       Sl   10:55   0:00 /snap/firefox/3836/usr/lib/fi
+root       11420  1.2  0.0      0     0 ?        I    10:56   0:03 [kworker/0:2-events]
+root       11421  0.4  0.0      0     0 ?        I    10:57   0:01 [kworker/1:0-events]
+devops     11443  1.0  2.9 2794244 58464 ?       Sl   11:00   0:01 gjs /usr/share/gnome-shell/ex
+root       11479  0.0  0.0      0     0 ?        I<   11:00   0:00 [kworker/1:2H-kblockd]
+devops     11498  0.5  3.5 2386772 70400 ?       Sl   11:00   0:00 /snap/firefox/3836/usr/lib/fi
+devops     11525  0.4  0.1   8388  2304 pts/7    R+   11:01   0:00 script -a ps-log.txt
+devops     11526  0.2  0.2  11272  5376 pts/10   Ss   11:01   0:00 bash -i
+devops     11532  0.0  0.1  12672  3328 pts/10   R+   11:01   0:00 ps aux
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ clear
+[?2004l[H[2J[3J[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ clearps aux[2Pexitscript[1Pclearssh devops@192.168.206.129clear[K
+[?2004l[H[2J[3J[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ clearps aux[2Pexitscript
+[?2004lScript started, output log file is 'typescript'.
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ script -a ps-log.txt
+[?2004lScript started, output log file is 'ps-log.txt'.
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ p[Kpsc[K[K[Kscript -c ps aux ps-log.txt
+[?2004lScript started, output log file is 'aux'.
+    PID TTY          TIME CMD
+  11554 pts/13   00:00:00 ps
+Script done.
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ ps ax[Kux
+[?2004lUSER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.4 167940  9316 ?        Ss   01:42   0:11 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    01:42   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   01:42   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   01:42   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   01:42   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<   01:42   0:00 [netns]
+root          11  0.0  0.0      0     0 ?        I<   01:42   0:00 [mm_percpu_wq]
+root          12  0.0  0.0      0     0 ?        I    01:42   0:00 [rcu_tasks_kthread]
+root          13  0.0  0.0      0     0 ?        I    01:42   0:00 [rcu_tasks_rude_kthread]
+root          14  0.0  0.0      0     0 ?        I    01:42   0:00 [rcu_tasks_trace_kthread]
+root          15  0.0  0.0      0     0 ?        S    01:42   0:02 [ksoftirqd/0]
+root          16  0.1  0.0      0     0 ?        I    01:42   0:42 [rcu_preempt]
+root          17  0.0  0.0      0     0 ?        S    01:42   0:01 [migration/0]
+root          18  0.0  0.0      0     0 ?        S    01:42   0:00 [idle_inject/0]
+root         Script started on 2024-07-16 11:02:58-04:00 [TERM="xterm-256color" TTY="/dev/pts/11" COLUMNS="96" LINES="44"]
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ p[Kpsc[K[K[Kscript -c ps aux ps-log.txt
+[?2004lScript started, output log file is 'aux'.
+    PID TTY          TIME CMD
+  11554 pts/13   00:00:00 ps
+Script done.
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ ps ax[Kux
+[?2004lUSER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.4 167940  9316 ?        Ss   01:42   0:11 /sbin/init splash
+root           2  0.0  0.0      0     0 ?        S    01:42   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   01:42   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   01:42   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   01:42   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<   01:42   0:00 [netns]
+root          11  0.0  0.0      0     0 ?        I<   01:42   0:00 [mm_percpu_wq]
+root          12  0.0  0.0      0     0 ?        I    01:42   0:00 [rcu_tasks_kthread]
+root          13  0.0  0.0      0     0 ?        I    01:42   0:00 [rcu_tasks_rude_kthread]
+root          14  0.0  0.0      0     0 ?        I    01:42   0:00 [rcu_tasks_trace_kthread]
+root          15  0.0  0.0      0     0 ?        S    01:42   0:02 [ksoftirqd/0]
+root          16  0.1  0.0      0     0 ?        I    01:42   0:42 [rcu_preempt]
+root          17  0.0  0.0      0     0 ?        S    01:42   0:01 [migration/0]
+root          18  0.0  0.0      0     0 ?        S    01:42   0:00 [idle_inject/0]
+root          19  0.0  0.0      0     0 ?        S    01:42   0:00 [cpuhp/0]
+root          20  0.0  0.0      0     0 ?        S    01:42   0:00 [cpuhp/1]
+root          21  0.0  0.0      0     0 ?        S    01:42   0:00 [idle_inject/1]
+root          22  0.0  0.0      0     0 ?        S    01:42   0:01 [migration/1]
+root          23  0.0  0.0      0     0 ?        S    01:42   0:16 [ksoftirqd/1]
+root          26  0.0  0.0      0     0 ?        S    01:42   0:00 [kdevtmpfs]
+root          27  0.0  0.0      0     0 ?        I<   01:42   0:00 [inet_frag_wq]
+root          29  0.0  0.0      0     0 ?        S    01:42   0:00 [kauditd]
+root          31  0.0  0.0      0     0 ?        S    01:42   0:00 [khungtaskd]
+root          33  0.0  0.0      0     0 ?        S    01:42   0:00 [oom_reaper]
+root          34  0.0  0.0      0     0 ?        I<   01:42   0:00 [writeback]
+root          35  0.0  0.0      0     0 ?        S    01:42   0:09 [kcompactd0]
+root          36  0.0  0.0      0     0 ?        SN   01:42   0:00 [ksmd]
+root          37  0.0  0.0      0     0 ?        SN   01:42   0:00 [khugepaged]
+root          38  0.0  0.0      0     0 ?        I<   01:42   0:00 [kintegrityd]
+root          39  0.0  0.0      0     0 ?        I<   01:42   0:00 [kblockd]
+root          40  0.0  0.0      0     0 ?        I<   01:42   0:00 [blkcg_punt_bio]
+root          42  0.0  0.0      0     0 ?        I<   01:42   0:00 [tpm_dev_wq]
+root          43  0.0  0.0      0     0 ?        I<   01:42   0:00 [ata_sff]
+root          44  0.0  0.0      0     0 ?        I<   01:42   0:00 [md]
+root          45  0.0  0.0      0     0 ?        I<   01:42   0:00 [md_bitmap]
+root          46  0.0  0.0      0     0 ?        I<   01:42   0:00 [edac-poller]
+root          47  0.0  0.0      0     0 ?        I<   01:42   0:00 [devfreq_wq]
+root          48  0.0  0.0      0     0 ?        S    01:42   0:00 [watchdogd]
+root          50  0.0  0.0      0     0 ?        S    01:42   0:11 [kswapd0]
+root          51  0.0  0.0      0     0 ?        S    01:42   0:00 [ecryptfs-kthread]
+root          52  0.0  0.0      0     0 ?        I<   01:42   0:00 [kthrotld]
+root          53  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/24-pciehp]
+root          54  0.0  0. 19  0.0  0.0      0     0 ?        S    01:42   0:00 [cpuhp/0]
+root          20  0.0  0.0      0     0 ?        S    01:42   0:00 [cpuhp/1]
+root          21  0.0  0.0      0     0 ?        S    01:42   0:00 [idle_inject/1]
+root          22  0.0  0.0      0     0 ?        S    01:42   0:01 [migration/1]
+root          23  0.0  0.0      0     0 ?        S    01:42   0:16 [ksoftirqd/1]
+root          26  0.0  0.0      0     0 ?        S    01:42   0:00 [kdevtmpfs]
+root          27  0.0  0.0      0     0 ?        I<   01:42   0:00 [inet_frag_wq]
+root          29  0.0  0.0      0     0 ?        S    01:42   0:00 [kauditd]
+root          31  0.0  0.0      0     0 ?        S    01:42   0:00 [khungtaskd]
+root          33  0.0  0.0      0     0 ?        S    01:42   0:00 [oom_reaper]
+root          34  0.0  0.0      0     0 ?        I<   01:42   0:00 [writeback]
+root          35  0.0  0.0      0     0 ?        S    01:42   0:09 [kcompactd0]
+root          36  0.0  0.0      0     0 ?        SN   01:42   0:00 [ksmd]
+root          37  0.0  0.0      0     0 ?        SN   01:42   0:00 [khugepaged]
+root          38  0.0  0.0      0     0 ?        I<   01:42   0:00 [kintegrityd]
+root          39  0.0  0.0      0     0 ?        I<   01:42   0:00 [kblockd]
+root          40  0.0  0.0      0     0 ?        I<   01:42   0:00 [blkcg_punt_bio]
+root          42  0.0  0.0      0     0 ?        I<   01:42   0:00 [tpm_dev_wq]
+root          43  0.0  0.0      0     0 ?        I<   01:42   0:00 [ata_sff]
+root          44  0.0  0.0      0     0 ?        I<   01:42   0:00 [md]
+root          45  0.0  0.0      0     0 ?        I<   01:42   0:00 [md_bitmap]
+root          46  0.0  0.0      0     0 ?        I<   01:42   0:00 [edac-poller]
+root          47  0.0  0.0      0     0 ?        I<   01:42   0:00 [devfreq_wq]
+root          48  0.0  0.0      0     0 ?        S    01:42   0:00 [watchdogd]
+root          50  0.0  0.0      0     0 ?        S    01:42   0:11 [kswapd0]
+root          51  0.0  0.0      0     0 ?        S    01:42   0:00 [ecryptfs-kthread]
+root          52  0.0  0.0      0     0 ?        I<   01:42   0:00 [kthrotld]
+root          53  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/24-pciehp]
+root          54  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/25-pciehp]
+root          55  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/26-pciehp]
+root          56  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/27-pciehp]
+root          57  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/28-pciehp]
+root          58  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/29-pciehp]
+root          59  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/30-pciehp]
+root          60  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/31-pciehp]
+root          61  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/32-pciehp]
+root          62  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/33-pciehp]
+root          63  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/34-pciehp]
+root          64  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/35-pciehp]
+root          65  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/36-pciehp]
+root          66  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/37-pciehp]
+root          67  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/38-pciehp]
+root          68  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/39-pciehp]
+root          69  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/40-pciehp]
+root          70  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/41-pciehp]
+root          71  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/42-pciehp]
+root          72  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/43-pciehp]
+root          73  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/44-pciehp]
+root          74  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/45-pciehp]
+root          75  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/46-pciehp]
+root     0      0     0 ?        S    01:42   0:00 [irq/25-pciehp]
+root          55  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/26-pciehp]
+root          56  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/27-pciehp]
+root          57  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/28-pciehp]
+root          58  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/29-pciehp]
+root          59  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/30-pciehp]
+root          60  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/31-pciehp]
+root          61  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/32-pciehp]
+root          62  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/33-pciehp]
+root          63  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/34-pciehp]
+root          64  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/35-pciehp]
+root          65  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/36-pciehp]
+root          66  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/37-pciehp]
+root          67  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/38-pciehp]
+root          68  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/39-pciehp]
+root          69  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/40-pciehp]
+root          70  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/41-pciehp]
+root          71  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/42-pciehp]
+root          72  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/43-pciehp]
+root          73  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/44-pciehp]
+root          74  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/45-pciehp]
+root          75  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/46-pciehp]
+root          76  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/47-pciehp]
+root          77  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/48-pciehp]
+root          78  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/49-pciehp]
+root          79  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/50-pciehp]
+root          80  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/51-pciehp]
+root          81  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/52-pciehp]
+root          82  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/53-pciehp]
+root          83  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/54-pciehp]
+root          84  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/55-pciehp]
+root          85  0.0  0.0      0     0 ?        I<   01:42   0:00 [acpi_thermal_pm]
+root          86  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_0]
+root          87  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_0]
+root          88  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_1]
+root          89  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_1]
+root          93  0.0  0.0      0     0 ?        I<   01:42   0:00 [mld]
+root          94  0.0  0.0      0     0 ?        I<   01:42   0:00 [ipv6_addrconf]
+root         102  0.0  0.0      0     0 ?        I<   01:42   0:00 [kstrp]
+root         104  0.0  0.0      0     0 ?        I<   01:42   0:00 [kworker/u257:0-hci0]
+root         108  0.0  0.0      0     0 ?        I<   01:42   0:00 [charger_manager]
+root         148  0.0  0.0      0     0 ?        I<   01:42   0:00 [mpt_poll_0]
+root         149  0.0  0.0      0     0 ?        I<   01:42   0:00 [mpt/0]
+root         150  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_2]
+root         151  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_2]
+root         152  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_3]
+root         153  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_3]
+root         154  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_4]
+root         155  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_4]
+root         156  0.0  0.0      0     0 ?        S    01:42     76  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/47-pciehp]
+root          77  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/48-pciehp]
+root          78  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/49-pciehp]
+root          79  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/50-pciehp]
+root          80  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/51-pciehp]
+root          81  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/52-pciehp]
+root          82  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/53-pciehp]
+root          83  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/54-pciehp]
+root          84  0.0  0.0      0     0 ?        S    01:42   0:00 [irq/55-pciehp]
+root          85  0.0  0.0      0     0 ?        I<   01:42   0:00 [acpi_thermal_pm]
+root          86  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_0]
+root          87  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_0]
+root          88  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_1]
+root          89  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_1]
+root          93  0.0  0.0      0     0 ?        I<   01:42   0:00 [mld]
+root          94  0.0  0.0      0     0 ?        I<   01:42   0:00 [ipv6_addrconf]
+root         102  0.0  0.0      0     0 ?        I<   01:42   0:00 [kstrp]
+root         104  0.0  0.0      0     0 ?        I<   01:42   0:00 [kworker/u257:0-hci0]
+root         108  0.0  0.0      0     0 ?        I<   01:42   0:00 [charger_manager]
+root         148  0.0  0.0      0     0 ?        I<   01:42   0:00 [mpt_poll_0]
+root         149  0.0  0.0      0     0 ?        I<   01:42   0:00 [mpt/0]
+root         150  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_2]
+root         151  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_2]
+root         152  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_3]
+root         153  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_3]
+root         154  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_4]
+root         155  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_4]
+root         156  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_5]
+root         157  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_5]
+root         158  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_6]
+root         159  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_6]
+root         160  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_7]
+root         161  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_7]
+root         162  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_8]
+root         163  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_8]
+root         164  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_9]
+root         165  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_9]
+root         166  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_10]
+root         167  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_10]
+root         168  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_11]
+root         169  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_11]
+root         170  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_12]
+root         171  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_12]
+root         172  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_13]
+root         173  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_13]
+root         174  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_14]
+root         175  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_14]
+root         176  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_15]
+root         177  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_15]
+root         178  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_16]
+root         179  0.0  0.0    0:00 [scsi_eh_5]
+root         157  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_5]
+root         158  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_6]
+root         159  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_6]
+root         160  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_7]
+root         161  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_7]
+root         162  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_8]
+root         163  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_8]
+root         164  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_9]
+root         165  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_9]
+root         166  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_10]
+root         167  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_10]
+root         168  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_11]
+root         169  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_11]
+root         170  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_12]
+root         171  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_12]
+root         172  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_13]
+root         173  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_13]
+root         174  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_14]
+root         175  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_14]
+root         176  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_15]
+root         177  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_15]
+root         178  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_16]
+root         179  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_16]
+root         180  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_17]
+root         181  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_17]
+root         182  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_18]
+root         183  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_18]
+root         184  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_19]
+root         185  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_19]
+root         186  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_20]
+root         187  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_20]
+root         188  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_21]
+root         189  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_21]
+root         190  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_22]
+root         191  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_22]
+root         192  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_23]
+root         193  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_23]
+root         194  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_24]
+root         195  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_24]
+root         196  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_25]
+root         197  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_25]
+root         198  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_26]
+root         199  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_26]
+root         200  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_27]
+root         201  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_27]
+root         202  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_28]
+root         203  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_28]
+root         204  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_29]
+root         205  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_29]
+root         206  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_30]
+root          0     0 ?        I<   01:42   0:00 [scsi_tmf_16]
+root         180  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_17]
+root         181  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_17]
+root         182  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_18]
+root         183  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_18]
+root         184  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_19]
+root         185  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_19]
+root         186  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_20]
+root         187  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_20]
+root         188  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_21]
+root         189  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_21]
+root         190  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_22]
+root         191  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_22]
+root         192  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_23]
+root         193  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_23]
+root         194  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_24]
+root         195  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_24]
+root         196  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_25]
+root         197  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_25]
+root         198  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_26]
+root         199  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_26]
+root         200  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_27]
+root         201  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_27]
+root         202  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_28]
+root         203  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_28]
+root         204  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_29]
+root         205  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_29]
+root         206  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_30]
+root         207  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_30]
+root         208  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_31]
+root         209  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_31]
+root         214  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_32]
+root         216  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_32]
+root         270  0.0  0.0      0     0 ?        S    01:42   0:02 [jbd2/sda3-8]
+root         271  0.0  0.0      0     0 ?        I<   01:42   0:00 [ext4-rsv-conver]
+root         310  0.0  0.8  64692 16460 ?        S<s  01:43   0:05 /lib/systemd/systemd-journald
+root         342  0.0  0.0      0     0 ?        S    01:43   0:09 [irq/16-vmwgfx]
+root         343  0.0  0.0      0     0 ?        I<   01:43   0:00 [ttm]
+root         350  0.0  0.0 152564  1164 ?        Ssl  01:43   0:00 vmware-vmblock-fuse /run/vmbl
+root         371  0.0  0.1  26824  3840 ?        Ss   01:43   0:01 /lib/systemd/systemd-udevd
+root         523  0.0  0.0      0     0 ?        S    01:43   0:01 [irq/57-vmw_vmci]
+root         524  0.0  0.0      0     0 ?        S    01:43   0:00 [irq/58-vmw_vmci]
+root         525  0.0  0.0      0     0 ?        S    01:43   0:00 [irq/59-vmw_vmci]
+root         577  0.0  0.0      0     0 ?        I<   01:43   0:00 [kworker/u257:2-hci0]
+systemd+     618  0.5  0.2  14836  5120 ?        Ss   01:43   3:18 /lib/systemd/systemd-oomd
+systemd+     620  0.0  0.3  25804  7776 ?        Ss   01:43   0:04 /lib/systemd/systemd-resolved
+systemd+     623  0.0  0.2  89388  5760 ?        Ssl  01:43   0:00 /lib/systemd/systemd-timesync
+root         636  0.0  0.3  53748  7296 ?        Ss   01:43   0:00 /usr/bin/VGAuthService
+root         643  0.6  0.3 317468  7040 ?        Ssl  01:43   3:31 /usr/bin/vmtoolsd
+r    207  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_30]
+root         208  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_31]
+root         209  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_31]
+root         214  0.0  0.0      0     0 ?        S    01:42   0:00 [scsi_eh_32]
+root         216  0.0  0.0      0     0 ?        I<   01:42   0:00 [scsi_tmf_32]
+root         270  0.0  0.0      0     0 ?        S    01:42   0:02 [jbd2/sda3-8]
+root         271  0.0  0.0      0     0 ?        I<   01:42   0:00 [ext4-rsv-conver]
+root         310  0.0  0.8  64692 16460 ?        S<s  01:43   0:05 /lib/systemd/systemd-journald
+root         342  0.0  0.0      0     0 ?        S    01:43   0:09 [irq/16-vmwgfx]
+root         343  0.0  0.0      0     0 ?        I<   01:43   0:00 [ttm]
+root         350  0.0  0.0 152564  1164 ?        Ssl  01:43   0:00 vmware-vmblock-fuse /run/vmbl
+root         371  0.0  0.1  26824  3840 ?        Ss   01:43   0:01 /lib/systemd/systemd-udevd
+root         523  0.0  0.0      0     0 ?        S    01:43   0:01 [irq/57-vmw_vmci]
+root         524  0.0  0.0      0     0 ?        S    01:43   0:00 [irq/58-vmw_vmci]
+root         525  0.0  0.0      0     0 ?        S    01:43   0:00 [irq/59-vmw_vmci]
+root         577  0.0  0.0      0     0 ?        I<   01:43   0:00 [kworker/u257:2-hci0]
+systemd+     618  0.5  0.2  14836  5120 ?        Ss   01:43   3:18 /lib/systemd/systemd-oomd
+systemd+     620  0.0  0.3  25804  7776 ?        Ss   01:43   0:04 /lib/systemd/systemd-resolved
+systemd+     623  0.0  0.2  89388  5760 ?        Ssl  01:43   0:00 /lib/systemd/systemd-timesync
+root         636  0.0  0.3  53748  7296 ?        Ss   01:43   0:00 /usr/bin/VGAuthService
+root         643  0.6  0.3 317468  7040 ?        Ssl  01:43   3:31 /usr/bin/vmtoolsd
+root         765  0.0  0.3 239908  7256 ?        Ssl  01:43   0:03 /usr/libexec/accounts-daemon
+root         772  0.0  0.0   2816  1920 ?        Ss   01:43   0:04 /usr/sbin/acpid
+avahi        781  0.0  0.1   7632  3456 ?        Ss   01:43   0:02 avahi-daemon: running [devops
+root         789  0.0  0.1   9496  2816 ?        Ss   01:43   0:00 /usr/sbin/cron -f -P
+message+     790  0.0  0.2  11108  5888 ?        Ss   01:43   0:05 @dbus-daemon --system --addre
+root         795  0.0  0.7 408948 14944 ?        Ssl  01:43   0:09 /usr/sbin/NetworkManager --no
+root         816  0.0  0.1  82832  3840 ?        Ssl  01:43   0:03 /usr/sbin/irqbalance --foregr
+root         822  0.0  0.4  41040  8320 ?        Ss   01:43   0:00 /usr/bin/python3 /usr/bin/net
+root         823  0.0  0.5 243076 11368 ?        Ssl  01:43   0:07 /usr/libexec/polkitd --no-deb
+root         826  0.0  0.3 240064  7040 ?        Ssl  01:43   0:00 /usr/libexec/power-profiles-d
+syslog       832  0.0  0.2 222404  4096 ?        Ssl  01:43   0:01 /usr/sbin/rsyslogd -n -iNONE
+root         841  0.0  1.3 1394016 25628 ?       Ssl  01:43   0:18 /usr/lib/snapd/snapd
+root         847  0.0  0.3 236608  6528 ?        Ssl  01:43   0:00 /usr/libexec/switcheroo-contr
+root         860  0.0  0.2  15452  5804 ?        Ss   01:43   0:01 /lib/systemd/systemd-logind
+root         866  0.0  0.4 393020  8368 ?        Ssl  01:43   0:00 /usr/libexec/udisks2/udisksd
+root         869  0.0  0.2  16504  4352 ?        Ss   01:43   0:00 /sbin/wpa_supplicant -u -s -O
+avahi        903  0.0  0.0   7444  1152 ?        S    01:43   0:00 avahi-daemon: chroot helper
+root         923  0.0  0.3 317948  7004 ?        Ssl  01:43   0:00 /usr/sbin/ModemManager
+root         946  0.0  0.5 118060  9984 ?        Ssl  01:43   0:00 /usr/bin/python3 /usr/share/u
+root        1017  0.0  0.4 241228  7936 ?        Ssl  01:43   0:00 /usr/sbin/gdm3
+root        1054  0.0  0.4 318064  8576 ?        Sl   01:43   0:00 gdm-session-worker [pam/gdm-a
+kernoops    1077  0.0  0.0  13092  1956 ?        Ss   01:43   0:00 /usr/sbin/kerneloops --test
+kernoops    1088  0.0  0.0  13092  1828 ?        Ss   01:43   0:00 /usr/sbin/kerneloops
+root        1093  0.0  0.0      0     0 ?        I<   01:43   0:00 [cryptd]
+devopsoot         765  0.0  0.3 239908  7256 ?        Ssl  01:43   0:03 /usr/libexec/accounts-daemon
+root         772  0.0  0.0   2816  1920 ?        Ss   01:43   0:04 /usr/sbin/acpid
+avahi        781  0.0  0.1   7632  3456 ?        Ss   01:43   0:02 avahi-daemon: running [devops
+root         789  0.0  0.1   9496  2816 ?        Ss   01:43   0:00 /usr/sbin/cron -f -P
+message+     790  0.0  0.2  11108  5888 ?        Ss   01:43   0:05 @dbus-daemon --system --addre
+root         795  0.0  0.7 408948 14944 ?        Ssl  01:43   0:09 /usr/sbin/NetworkManager --no
+root         816  0.0  0.1  82832  3840 ?        Ssl  01:43   0:03 /usr/sbin/irqbalance --foregr
+root         822  0.0  0.4  41040  8320 ?        Ss   01:43   0:00 /usr/bin/python3 /usr/bin/net
+root         823  0.0  0.5 243076 11368 ?        Ssl  01:43   0:07 /usr/libexec/polkitd --no-deb
+root         826  0.0  0.3 240064  7040 ?        Ssl  01:43   0:00 /usr/libexec/power-profiles-d
+syslog       832  0.0  0.2 222404  4096 ?        Ssl  01:43   0:01 /usr/sbin/rsyslogd -n -iNONE
+root         841  0.0  1.3 1394016 25628 ?       Ssl  01:43   0:18 /usr/lib/snapd/snapd
+root         847  0.0  0.3 236608  6528 ?        Ssl  01:43   0:00 /usr/libexec/switcheroo-contr
+root         860  0.0  0.2  15452  5804 ?        Ss   01:43   0:01 /lib/systemd/systemd-logind
+root         866  0.0  0.4 393020  8368 ?        Ssl  01:43   0:00 /usr/libexec/udisks2/udisksd
+root         869  0.0  0.2  16504  4352 ?        Ss   01:43   0:00 /sbin/wpa_supplicant -u -s -O
+avahi        903  0.0  0.0   7444  1152 ?        S    01:43   0:00 avahi-daemon: chroot helper
+root         923  0.0  0.3 317948  7004 ?        Ssl  01:43   0:00 /usr/sbin/ModemManager
+root         946  0.0  0.5 118060  9984 ?        Ssl  01:43   0:00 /usr/bin/python3 /usr/share/u
+root        1017  0.0  0.4 241228  7936 ?        Ssl  01:43   0:00 /usr/sbin/gdm3
+root        1054  0.0  0.4 318064  8576 ?        Sl   01:43   0:00 gdm-session-worker [pam/gdm-a
+kernoops    1077  0.0  0.0  13092  1956 ?        Ss   01:43   0:00 /usr/sbin/kerneloops --test
+kernoops    1088  0.0  0.0  13092  1828 ?        Ss   01:43   0:00 /usr/sbin/kerneloops
+root        1093  0.0  0.0      0     0 ?        I<   01:43   0:00 [cryptd]
+devops      1139  0.0  0.4  20000  8964 ?        Ss   01:43   0:07 /lib/systemd/systemd --user
+devops      1146  0.0  0.0 104208  1668 ?        S    01:43   0:00 (sd-pam)
+devops      1187  0.0  0.1  39580  3840 ?        S<sl 01:43   0:00 /usr/bin/pipewire
+devops      1188  0.0  0.1  23604  3584 ?        Ssl  01:43   0:00 /usr/bin/pipewire-media-sessi
+devops      1190  0.1  0.8 1498108 17240 ?       S<sl 01:43   0:49 /usr/bin/pulseaudio --daemoni
+rtkit       1193  0.0  0.1 154004  3200 ?        SNsl 01:43   0:02 /usr/libexec/rtkit-daemon
+devops      1195  0.0  0.3 388392  6684 ?        SLl  01:43   0:01 /usr/bin/gnome-keyring-daemon
+devops      1204  0.0  0.2 162392  5760 tty2     Ssl+ 01:43   0:00 /usr/libexec/gdm-wayland-sess
+devops      1206  0.0  0.4  15252  9472 ?        Ss   01:43   0:14 /usr/bin/dbus-daemon --sessio
+devops      1223  0.0  0.5 223044  9856 tty2     Sl+  01:43   0:00 /usr/libexec/gnome-session-bi
+devops      1224  0.0  0.3 240768  7296 ?        Ssl  01:43   0:00 /usr/libexec/gvfsd
+devops      1244  0.0  0.3 380896  6016 ?        Sl   01:43   0:00 /usr/libexec/gvfsd-fuse /run/
+devops      1302  0.0  1.0 720000 21324 ?        SNsl 01:43   0:04 /usr/libexec/tracker-miner-fs
+devops      1321  0.0  0.2  91912  5248 ?        Ssl  01:43   0:00 /usr/libexec/gnome-session-ct
+root        1322  0.0  0.2  10488  4096 ?        Ss   01:43   0:00 /usr/lib/bluetooth/bluetoothd
+devops      1342  0.0  0.5 592860 11520 ?        Ssl  01:43   0:01 /usr/libexec/gnome-session-bi
+devops      1377  0.0  0.3 537032  6912 ?        Ssl  01:43   0:00 /usr/libexec/xdg-document-por
+devops      1384  0.0  0.3 236152  6016 ?        Ssl  01:43   0:00 /usr/libexec/xdg-permission-s
+root        1392  0.0  0.0   2796  1792 ?        Ss   01:43   0:00 fusermount3 -o rw,nosuid,node
+devops      1409  0.0  0.3      1139  0.0  0.4  20000  8964 ?        Ss   01:43   0:07 /lib/systemd/systemd --user
+devops      1146  0.0  0.0 104208  1668 ?        S    01:43   0:00 (sd-pam)
+devops      1187  0.0  0.1  39580  3840 ?        S<sl 01:43   0:00 /usr/bin/pipewire
+devops      1188  0.0  0.1  23604  3584 ?        Ssl  01:43   0:00 /usr/bin/pipewire-media-sessi
+devops      1190  0.1  0.8 1498108 17240 ?       S<sl 01:43   0:49 /usr/bin/pulseaudio --daemoni
+rtkit       1193  0.0  0.1 154004  3200 ?        SNsl 01:43   0:02 /usr/libexec/rtkit-daemon
+devops      1195  0.0  0.3 388392  6684 ?        SLl  01:43   0:01 /usr/bin/gnome-keyring-daemon
+devops      1204  0.0  0.2 162392  5760 tty2     Ssl+ 01:43   0:00 /usr/libexec/gdm-wayland-sess
+devops      1206  0.0  0.4  15252  9472 ?        Ss   01:43   0:14 /usr/bin/dbus-daemon --sessio
+devops      1223  0.0  0.5 223044  9856 tty2     Sl+  01:43   0:00 /usr/libexec/gnome-session-bi
+devops      1224  0.0  0.3 240768  7296 ?        Ssl  01:43   0:00 /usr/libexec/gvfsd
+devops      1244  0.0  0.3 380896  6016 ?        Sl   01:43   0:00 /usr/libexec/gvfsd-fuse /run/
+devops      1302  0.0  1.0 720000 21324 ?        SNsl 01:43   0:04 /usr/libexec/tracker-miner-fs
+devops      1321  0.0  0.2  91912  5248 ?        Ssl  01:43   0:00 /usr/libexec/gnome-session-ct
+root        1322  0.0  0.2  10488  4096 ?        Ss   01:43   0:00 /usr/lib/bluetooth/bluetoothd
+devops      1342  0.0  0.5 592860 11520 ?        Ssl  01:43   0:01 /usr/libexec/gnome-session-bi
+devops      1377  0.0  0.3 537032  6912 ?        Ssl  01:43   0:00 /usr/libexec/xdg-document-por
+devops      1384  0.0  0.3 236152  6016 ?        Ssl  01:43   0:00 /usr/libexec/xdg-permission-s
+root        1392  0.0  0.0   2796  1792 ?        Ss   01:43   0:00 fusermount3 -o rw,nosuid,node
+devops      1409  0.0  0.3 309584  7296 ?        Sl   01:43   0:00 /usr/libexec/at-spi-bus-launc
+devops      1411  0.0  0.4 315888  8320 ?        Ssl  01:43   0:00 /usr/libexec/gvfs-udisks2-vol
+devops      1431  0.0  0.1   8564  3840 ?        S    01:43   0:00 /usr/bin/dbus-daemon --config
+devops      1436  1.4  8.6 4470632 171188 ?      Ssl  01:43   7:56 /usr/bin/gnome-shell
+devops      1447  0.0  0.3 237544  6400 ?        Ssl  01:43   0:00 /usr/libexec/gvfs-gphoto2-vol
+devops      1461  0.0  0.3 315216  7296 ?        Ssl  01:43   0:07 /usr/libexec/gvfs-afc-volume-
+devops      1469  0.0  0.3 236636  6144 ?        Ssl  01:43   0:00 /usr/libexec/gvfs-goa-volume-
+devops      1480  0.0  0.7 581908 14208 ?        Sl   01:43   0:00 /usr/libexec/goa-daemon
+devops      1517  0.0  0.5 338404  9856 ?        Sl   01:43   0:00 /usr/libexec/goa-identity-ser
+devops      1525  0.0  0.3 236460  6400 ?        Ssl  01:43   0:00 /usr/libexec/gvfs-mtp-volume-
+root        1545  0.0  0.3 242228  7296 ?        Ssl  01:43   0:00 /usr/libexec/upowerd
+devops      1664  0.0  0.5 582936 11008 ?        Sl   01:43   0:01 /usr/libexec/gnome-shell-cale
+devops      1668  0.0  0.5 754884 10624 ?        Ssl  01:43   0:03 /usr/libexec/xdg-desktop-port
+devops      1675  0.0  0.6 662796 12732 ?        Ssl  01:43   0:02 /usr/libexec/xdg-desktop-port
+devops      1678  0.0  0.6 1072232 12032 ?       Ssl  01:43   0:00 /usr/libexec/evolution-source
+devops      1691  0.0  0.6 1184660 13568 ?       Ssl  01:43   0:01 /usr/libexec/evolution-calend
+root        1698  0.0  2.4 372848 47656 ?        Ssl  01:43   0:30 /usr/libexec/packagekitd
+devops      1708  0.0  0.2 157072  5888 ?        Ssl  01:43   0:00 /usr/libexec/dconf-service
+devops      1711  0.0  0.5 680432 11776 ?        Ssl  01:43   0:00 /usr/libexec/evolution-addres
+devops      1722  0.0  0.4 314864  7936 ?        Sl   01:43   0:00 /usr/libexec/gvfsd-trash --sp
+devops      1738  0.0  0.3 162688  6656 ?        Sl   01:43   0:00 /usr/libexec/at-spi2-registry
+devops      1740  0.0  0.7 2599508 14396 ?       Sl   01:43   0:00 /usr/bin/gjs /usr/share/gnome
+devops      1747  0.0  0.0   2892  1536 ?        Ss   01:43   0:00 sh -c /usr/bin/ibus-daemon --
+devops      1749  0.1  0.4 315116  7928 ?        Sl   01:43   0:59 / 309584  7296 ?        Sl   01:43   0:00 /usr/libexec/at-spi-bus-launc
+devops      1411  0.0  0.4 315888  8320 ?        Ssl  01:43   0:00 /usr/libexec/gvfs-udisks2-vol
+devops      1431  0.0  0.1   8564  3840 ?        S    01:43   0:00 /usr/bin/dbus-daemon --config
+devops      1436  1.4  8.6 4470632 171188 ?      Ssl  01:43   7:56 /usr/bin/gnome-shell
+devops      1447  0.0  0.3 237544  6400 ?        Ssl  01:43   0:00 /usr/libexec/gvfs-gphoto2-vol
+devops      1461  0.0  0.3 315216  7296 ?        Ssl  01:43   0:07 /usr/libexec/gvfs-afc-volume-
+devops      1469  0.0  0.3 236636  6144 ?        Ssl  01:43   0:00 /usr/libexec/gvfs-goa-volume-
+devops      1480  0.0  0.7 581908 14208 ?        Sl   01:43   0:00 /usr/libexec/goa-daemon
+devops      1517  0.0  0.5 338404  9856 ?        Sl   01:43   0:00 /usr/libexec/goa-identity-ser
+devops      1525  0.0  0.3 236460  6400 ?        Ssl  01:43   0:00 /usr/libexec/gvfs-mtp-volume-
+root        1545  0.0  0.3 242228  7296 ?        Ssl  01:43   0:00 /usr/libexec/upowerd
+devops      1664  0.0  0.5 582936 11008 ?        Sl   01:43   0:01 /usr/libexec/gnome-shell-cale
+devops      1668  0.0  0.5 754884 10624 ?        Ssl  01:43   0:03 /usr/libexec/xdg-desktop-port
+devops      1675  0.0  0.6 662796 12732 ?        Ssl  01:43   0:02 /usr/libexec/xdg-desktop-port
+devops      1678  0.0  0.6 1072232 12032 ?       Ssl  01:43   0:00 /usr/libexec/evolution-source
+devops      1691  0.0  0.6 1184660 13568 ?       Ssl  01:43   0:01 /usr/libexec/evolution-calend
+root        1698  0.0  2.4 372848 47656 ?        Ssl  01:43   0:30 /usr/libexec/packagekitd
+devops      1708  0.0  0.2 157072  5888 ?        Ssl  01:43   0:00 /usr/libexec/dconf-service
+devops      1711  0.0  0.5 680432 11776 ?        Ssl  01:43   0:00 /usr/libexec/evolution-addres
+devops      1722  0.0  0.4 314864  7936 ?        Sl   01:43   0:00 /usr/libexec/gvfsd-trash --sp
+devops      1738  0.0  0.3 162688  6656 ?        Sl   01:43   0:00 /usr/libexec/at-spi2-registry
+devops      1740  0.0  0.7 2599508 14396 ?       Sl   01:43   0:00 /usr/bin/gjs /usr/share/gnome
+devops      1747  0.0  0.0   2892  1536 ?        Ss   01:43   0:00 sh -c /usr/bin/ibus-daemon --
+devops      1749  0.1  0.4 315116  7928 ?        Sl   01:43   0:59 /usr/bin/ibus-daemon --panel 
+devops      1752  0.0  0.3 310388  6144 ?        Ssl  01:43   0:00 /usr/libexec/gsd-a11y-setting
+devops      1753  0.0  0.7 601700 14696 ?        Ssl  01:43   0:01 /usr/libexec/gsd-color
+devops      1758  0.0  0.5 375428 10496 ?        Ssl  01:43   0:00 /usr/libexec/gsd-datetime
+devops      1765  0.0  0.3 312024  6912 ?        Ssl  01:43   0:01 /usr/libexec/gsd-housekeeping
+devops      1768  0.0  0.5 417468 11472 ?        Ssl  01:43   0:00 /usr/libexec/gsd-keyboard
+devops      1770  0.0  0.7 867400 14596 ?        Ssl  01:43   0:01 /usr/libexec/gsd-media-keys
+devops      1772  0.0  0.7 380020 15364 ?        Ssl  01:43   0:01 /usr/libexec/gsd-power
+devops      1776  0.0  0.3 163484  6528 ?        Sl   01:43   0:00 /usr/libexec/ibus-memconf
+devops      1778  0.0  0.4 249856  8960 ?        Ssl  01:43   0:00 /usr/libexec/gsd-print-notifi
+devops      1779  0.0  0.6 348832 13360 ?        Sl   01:43   0:07 /usr/libexec/ibus-extension-g
+devops      1780  0.0  0.3 457860  6272 ?        Ssl  01:43   0:00 /usr/libexec/gsd-rfkill
+devops      1784  0.0  0.3 237264  6656 ?        Sl   01:43   0:00 /usr/libexec/ibus-portal
+devops      1786  0.0  0.2 236292  5888 ?        Ssl  01:43   0:00 /usr/libexec/gsd-screensaver-
+devops      1792  0.0  0.4 465900  8448 ?        Ssl  01:43   0:00 /usr/libexec/gsd-sharing
+devops      1793  0.5  1.1 143480 21872 ?        Sl   01:43   2:57 /usr/bin/vmtoolsd -n vmusr --
+devops      1802  0.0  0.3 459736  6656 ?        Ssl  01:43   0:00 /usr/libexec/gsd-smartcard
+devops      1804  0.0  0.3 319304  7680 ?        Ssl  01:43   0:00 /usr/libexec/gsd-sound
+devops      1809  0.0  0.5 344332 11776 ?        Ssl  01:43   0:00 /usr/libexec/gsd-wacom
+devops      1836  0.0  0.2 232272  5760 ?        Sl   01:43   0:00 /usr/libexec/gsd-disk-utility
+dusr/bin/ibus-daemon --panel 
+devops      1752  0.0  0.3 310388  6144 ?        Ssl  01:43   0:00 /usr/libexec/gsd-a11y-setting
+devops      1753  0.0  0.7 601700 14696 ?        Ssl  01:43   0:01 /usr/libexec/gsd-color
+devops      1758  0.0  0.5 375428 10496 ?        Ssl  01:43   0:00 /usr/libexec/gsd-datetime
+devops      1765  0.0  0.3 312024  6912 ?        Ssl  01:43   0:01 /usr/libexec/gsd-housekeeping
+devops      1768  0.0  0.5 417468 11472 ?        Ssl  01:43   0:00 /usr/libexec/gsd-keyboard
+devops      1770  0.0  0.7 867400 14596 ?        Ssl  01:43   0:01 /usr/libexec/gsd-media-keys
+devops      1772  0.0  0.7 380020 15364 ?        Ssl  01:43   0:01 /usr/libexec/gsd-power
+devops      1776  0.0  0.3 163484  6528 ?        Sl   01:43   0:00 /usr/libexec/ibus-memconf
+devops      1778  0.0  0.4 249856  8960 ?        Ssl  01:43   0:00 /usr/libexec/gsd-print-notifi
+devops      1779  0.0  0.6 348832 13360 ?        Sl   01:43   0:07 /usr/libexec/ibus-extension-g
+devops      1780  0.0  0.3 457860  6272 ?        Ssl  01:43   0:00 /usr/libexec/gsd-rfkill
+devops      1784  0.0  0.3 237264  6656 ?        Sl   01:43   0:00 /usr/libexec/ibus-portal
+devops      1786  0.0  0.2 236292  5888 ?        Ssl  01:43   0:00 /usr/libexec/gsd-screensaver-
+devops      1792  0.0  0.4 465900  8448 ?        Ssl  01:43   0:00 /usr/libexec/gsd-sharing
+devops      1793  0.5  1.1 143480 21872 ?        Sl   01:43   2:57 /usr/bin/vmtoolsd -n vmusr --
+devops      1802  0.0  0.3 459736  6656 ?        Ssl  01:43   0:00 /usr/libexec/gsd-smartcard
+devops      1804  0.0  0.3 319304  7680 ?        Ssl  01:43   0:00 /usr/libexec/gsd-sound
+devops      1809  0.0  0.5 344332 11776 ?        Ssl  01:43   0:00 /usr/libexec/gsd-wacom
+devops      1836  0.0  0.2 232272  5760 ?        Sl   01:43   0:00 /usr/libexec/gsd-disk-utility
+devops      1844  0.0  1.0 758164 19780 ?        Sl   01:43   0:01 /usr/libexec/evolution-data-s
+devops      1868  0.0  0.5 342360 10496 ?        Sl   01:43   0:00 /usr/libexec/gsd-printer
+devops      1907  0.0  0.3 163612  6912 ?        Sl   01:43   0:17 /usr/libexec/ibus-engine-simp
+colord      1948  0.0  0.4 245420  8040 ?        Ssl  01:43   0:00 /usr/libexec/colord
+devops      1961  0.0  0.8 2599552 16268 ?       Sl   01:43   0:00 /usr/bin/gjs /usr/share/gnome
+devops      1963  0.0  0.5 235736 10676 ?        S    01:43   0:08 /usr/bin/Xwayland :0 -rootles
+devops      1970  0.0  0.6 345428 13048 ?        Ssl  01:43   0:01 /usr/libexec/xdg-desktop-port
+devops      2005  0.0  0.7 547424 15312 ?        Ssl  01:43   0:01 /usr/libexec/gsd-xsettings
+devops      2054  0.0  0.5 194228 11680 ?        Sl   01:43   0:00 /usr/libexec/ibus-x11
+devops      2091  0.0  0.3 163012  6144 ?        Ssl  01:43   0:00 /usr/libexec/gvfsd-metadata
+devops      2170  0.0  0.8 494716 16124 ?        Sl   01:44   0:03 update-notifier
+devops      2406  0.0  0.0  38920   640 ?        Ss   01:48   0:00 /snap/snapd-desktop-integrati
+devops      2560  0.0  0.1 429332  2236 ?        Sl   01:48   0:01 /snap/snapd-desktop-integrati
+root        2749  0.0  0.1  14352  3328 ?        S    02:07   0:00 sudo vim /etc/resolf.conf
+root        2750  0.0  0.0  14352  1456 pts/1    Ss+  02:07   0:00 sudo vim /etc/resolf.conf
+root        2751  0.0  0.1  23660  3072 pts/1    T    02:07   0:00 vim /etc/resolf.conf
+devops      2830  0.0  0.7 691924 15548 ?        Ssl  02:09   0:00 /usr/libexec/gnome-remote-des
+devops      3011  0.0  0.2  46960  5248 ?        Ss   02:19   0:00 /usr/lib/bluetooth/obexd
+devops      3039  0.5  8.8 3093576 174480 ?      Sl   02:19   3:06 /snap/firefox/3836/usr/lib/fi
+devops      3179  0.0  3.4 973436 68236 ?        Sl   02:19   0:17 /snap/snap-store/959/usr/bin/
+devops      3342  0.0  0.6 209292 13696 ?        Sl   02:19   0:00 /snap/firefox/3836/usr/lib/fi
+devops      3560  0.0  1.5 2416516 30028 ?       Sl   02:19   0:02 /snap/firefox/3836/usr/lib/fi
+devops      3588  0.0  3.3 2435688 65036 ?       Sl   02:19   0:06 /snap/firefox/3836/usr/lib/fi
+devops      3620  0.0  0.4 1238524 8628 ?        Sl   02:19   0:03 /usr/binevops      1844  0.0  1.0 758164 19780 ?        Sl   01:43   0:01 /usr/libexec/evolution-data-s
+devops      1868  0.0  0.5 342360 10496 ?        Sl   01:43   0:00 /usr/libexec/gsd-printer
+devops      1907  0.0  0.3 163612  6912 ?        Sl   01:43   0:17 /usr/libexec/ibus-engine-simp
+colord      1948  0.0  0.4 245420  8040 ?        Ssl  01:43   0:00 /usr/libexec/colord
+devops      1961  0.0  0.8 2599552 16268 ?       Sl   01:43   0:00 /usr/bin/gjs /usr/share/gnome
+devops      1963  0.0  0.5 235736 10676 ?        S    01:43   0:08 /usr/bin/Xwayland :0 -rootles
+devops      1970  0.0  0.6 345428 13048 ?        Ssl  01:43   0:01 /usr/libexec/xdg-desktop-port
+devops      2005  0.0  0.7 547424 15312 ?        Ssl  01:43   0:01 /usr/libexec/gsd-xsettings
+devops      2054  0.0  0.5 194228 11680 ?        Sl   01:43   0:00 /usr/libexec/ibus-x11
+devops      2091  0.0  0.3 163012  6144 ?        Ssl  01:43   0:00 /usr/libexec/gvfsd-metadata
+devops      2170  0.0  0.8 494716 16124 ?        Sl   01:44   0:03 update-notifier
+devops      2406  0.0  0.0  38920   640 ?        Ss   01:48   0:00 /snap/snapd-desktop-integrati
+devops      2560  0.0  0.1 429332  2236 ?        Sl   01:48   0:01 /snap/snapd-desktop-integrati
+root        2749  0.0  0.1  14352  3328 ?        S    02:07   0:00 sudo vim /etc/resolf.conf
+root        2750  0.0  0.0  14352  1456 pts/1    Ss+  02:07   0:00 sudo vim /etc/resolf.conf
+root        2751  0.0  0.1  23660  3072 pts/1    T    02:07   0:00 vim /etc/resolf.conf
+devops      2830  0.0  0.7 691924 15548 ?        Ssl  02:09   0:00 /usr/libexec/gnome-remote-des
+devops      3011  0.0  0.2  46960  5248 ?        Ss   02:19   0:00 /usr/lib/bluetooth/obexd
+devops      3039  0.5  8.8 3093576 174480 ?      Sl   02:19   3:06 /snap/firefox/3836/usr/lib/fi
+devops      3179  0.0  3.4 973436 68236 ?        Sl   02:19   0:17 /snap/snap-store/959/usr/bin/
+devops      3342  0.0  0.6 209292 13696 ?        Sl   02:19   0:00 /snap/firefox/3836/usr/lib/fi
+devops      3560  0.0  1.5 2416516 30028 ?       Sl   02:19   0:02 /snap/firefox/3836/usr/lib/fi
+devops      3588  0.0  3.3 2435688 65036 ?       Sl   02:19   0:06 /snap/firefox/3836/usr/lib/fi
+devops      3620  0.0  0.4 1238524 8628 ?        Sl   02:19   0:03 /usr/bin/snap userd
+devops      3740  0.0  1.7 2434060 35184 ?       Sl   02:19   0:02 /snap/firefox/3836/usr/lib/fi
+devops      4400  0.0 10.3 2736924 202768 ?      Sl   02:19   0:28 /snap/firefox/3836/usr/lib/fi
+devops      4539  0.0  1.7 332844 34296 ?        Sl   02:19   0:00 /snap/firefox/3836/usr/lib/fi
+devops      4561  0.0  2.5 2394052 49228 ?       Sl   02:20   0:00 /snap/firefox/3836/usr/lib/fi
+devops      4800  0.0  0.2   8088  4736 ?        S    02:27   0:00 /usr/bin/ssh-agent -D -a /run
+devops      4886  0.0  0.3 314720  7424 ?        Sl   02:33   0:00 /usr/libexec/gvfsd-recent --s
+devops      5376  0.0  0.3 536288  7552 ?        Sl   03:20   0:01 /usr/libexec/gvfsd-network --
+devops      5396  0.0  0.4 316824  7936 ?        Sl   03:21   0:00 /usr/libexec/gvfsd-dnssd --sp
+devops      6550  0.2  2.0 565236 40172 ?        Rsl  06:32   0:37 /usr/libexec/gnome-terminal-s
+devops      6568  0.0  0.1  11272  3200 pts/2    Ss+  06:32   0:00 bash
+root        7313  0.0  0.4  72996  9728 ?        Ss   08:22   0:00 /usr/sbin/cupsd -l
+root        7318  0.0  0.4 172636  8832 ?        Ssl  08:22   0:00 /usr/sbin/cups-browsed
+systemd+    7368  0.0  0.3  16128  6144 ?        Ss   08:22   0:00 /lib/systemd/systemd-networkd
+root        7635  0.0  0.0      0     0 ?        I<   08:25   0:02 [kworker/1:1H-ttm]
+root        7874  0.0  0.0      0     0 ?        I    08:38   0:04 [kworker/u256:1-events_unboun
+root        8283  0.0  0.2  14516  4304 pts/2    T    10:07   0:00 sudo vim /etc/ssh/sshd_config
+root        8284  0.0  0.0  14516  1644 pts/3    Ss   10:07   0:00 sudo vim /etc/ssh/sshd_config
+root        8285  0.0  0.1  23752  3072 pts/3    T+   10:07   0:00 vim /etc/ssh/sshd_config
+root        8369  0.0  0.2  14348  4224 pts/2    T    10:09   0:00 sudo vim /etc/ssh/sshd_config
+root        8370/snap userd
+devops      3740  0.0  1.7 2434060 35184 ?       Sl   02:19   0:02 /snap/firefox/3836/usr/lib/fi
+devops      4400  0.0 10.3 2736924 202768 ?      Sl   02:19   0:28 /snap/firefox/3836/usr/lib/fi
+devops      4539  0.0  1.7 332844 34296 ?        Sl   02:19   0:00 /snap/firefox/3836/usr/lib/fi
+devops      4561  0.0  2.5 2394052 49228 ?       Sl   02:20   0:00 /snap/firefox/3836/usr/lib/fi
+devops      4800  0.0  0.2   8088  4736 ?        S    02:27   0:00 /usr/bin/ssh-agent -D -a /run
+devops      4886  0.0  0.3 314720  7424 ?        Sl   02:33   0:00 /usr/libexec/gvfsd-recent --s
+devops      5376  0.0  0.3 536288  7552 ?        Sl   03:20   0:01 /usr/libexec/gvfsd-network --
+devops      5396  0.0  0.4 316824  7936 ?        Sl   03:21   0:00 /usr/libexec/gvfsd-dnssd --sp
+devops      6550  0.2  2.0 565236 40172 ?        Rsl  06:32   0:37 /usr/libexec/gnome-terminal-s
+devops      6568  0.0  0.1  11272  3200 pts/2    Ss+  06:32   0:00 bash
+root        7313  0.0  0.4  72996  9728 ?        Ss   08:22   0:00 /usr/sbin/cupsd -l
+root        7318  0.0  0.4 172636  8832 ?        Ssl  08:22   0:00 /usr/sbin/cups-browsed
+systemd+    7368  0.0  0.3  16128  6144 ?        Ss   08:22   0:00 /lib/systemd/systemd-networkd
+root        7635  0.0  0.0      0     0 ?        I<   08:25   0:02 [kworker/1:1H-ttm]
+root        7874  0.0  0.0      0     0 ?        I    08:38   0:04 [kworker/u256:1-events_unboun
+root        8283  0.0  0.2  14516  4304 pts/2    T    10:07   0:00 sudo vim /etc/ssh/sshd_config
+root        8284  0.0  0.0  14516  1644 pts/3    Ss   10:07   0:00 sudo vim /etc/ssh/sshd_config
+root        8285  0.0  0.1  23752  3072 pts/3    T+   10:07   0:00 vim /etc/ssh/sshd_config
+root        8369  0.0  0.2  14348  4224 pts/2    T    10:09   0:00 sudo vim /etc/ssh/sshd_config
+root        8370  0.0  0.0  14348  1588 pts/5    Ss   10:09   0:00 sudo vim /etc/ssh/sshd_config
+root        8371  0.0  0.1  23756  3072 pts/5    T+   10:09   0:00 vim /etc/ssh/sshd_config
+root        8397  0.0  0.3  15432  7040 ?        Ss   10:17   0:00 sshd: /usr/sbin/sshd -D [list
+devops      8843  0.0  0.1   8388  2176 ?        S    10:27   0:00 script
+devops      8844  0.0  0.1  11264  2816 pts/8    Ss   10:27   0:00 bash -i
+devops      8861  0.0  0.1   8388  2304 pts/8    S+   10:27   0:00 script ps-log.txt
+devops      8862  0.0  0.1  11264  3584 pts/9    Ss+  10:27   0:00 bash -i
+root        9255  0.0  0.0      0     0 ?        I<   10:33   0:00 [kworker/1:0H-kblockd]
+root        9388  0.0  0.0      0     0 ?        I<   10:34   0:00 [kworker/0:7H-ttm]
+devops      9492  0.3  1.5 1249220 31472 ?       Sl   10:34   0:05 gnome-control-center
+root        9638  0.1  1.5 438876 31060 ?        Ssl  10:35   0:03 /usr/libexec/fwupd/fwupd
+root       10057  0.1  0.0      0     0 ?        I    10:35   0:01 [kworker/u256:4-events_unboun
+devops     10085  0.0  2.7 325660 53888 ?        Sl   10:35   0:00 /snap/firefox/3836/usr/lib/fi
+devops     11058  0.0  0.2  11272  5376 pts/4    Ss   10:38   0:00 bash
+root       11172  0.2  0.0      0     0 ?        I    10:39   0:03 [kworker/0:1-events]
+devops     11252  0.0  0.5  23544 10240 pts/4    T    10:41   0:00 vim ps-log.txt
+root       11255  0.0  0.0      0     0 ?        I<   10:41   0:00 [kworker/0:0H-ttm]
+devops     11257  0.0  0.1   8388  2304 pts/4    R+   10:41   0:00 script
+devops     11258  0.0  0.2  11272  5376 pts/7    Ss   10:41   0:00 bash -i
+root       11291  1.1  0.0      0     0 ?        I    10:43   0:13 [kworker/1:1-events]
+root       11346  0.5  0.0      0     0 ?        I    10:46   0:05 [kworker/0:0-events]
+root       11356  0.0  0.0      0     0 ?        I    10:50   0:00 [kworker/u256:0-events_unboun
+devops     11363  0.0  3.5 2386760 70272 ?       Sl   10:50   0:00 /snap/firefox/3836/usr/lib/fi
+devops     11402  0.0  3.5 2386760 70144 ?       Sl   10:55   0:00 /snap/firefox/3836/usr/lib/fi
+root       11420  1.1  0.0      0     0 ?        I    10:56   0:04 [kworker/0:2-events]
+root       11421  0.3  0.0      0     0 ?        I    10:57   0:01 [kworker/1:  0.0  0.0  14348  1588 pts/5    Ss   10:09   0:00 sudo vim /etc/ssh/sshd_config
+root        8371  0.0  0.1  23756  3072 pts/5    T+   10:09   0:00 vim /etc/ssh/sshd_config
+root        8397  0.0  0.3  15432  7040 ?        Ss   10:17   0:00 sshd: /usr/sbin/sshd -D [list
+devops      8843  0.0  0.1   8388  2176 ?        S    10:27   0:00 script
+devops      8844  0.0  0.1  11264  2816 pts/8    Ss   10:27   0:00 bash -i
+devops      8861  0.0  0.1   8388  2304 pts/8    S+   10:27   0:00 script ps-log.txt
+devops      8862  0.0  0.1  11264  3584 pts/9    Ss+  10:27   0:00 bash -i
+root        9255  0.0  0.0      0     0 ?        I<   10:33   0:00 [kworker/1:0H-kblockd]
+root        9388  0.0  0.0      0     0 ?        I<   10:34   0:00 [kworker/0:7H-ttm]
+devops      9492  0.3  1.5 1249220 31472 ?       Sl   10:34   0:05 gnome-control-center
+root        9638  0.1  1.5 438876 31060 ?        Ssl  10:35   0:03 /usr/libexec/fwupd/fwupd
+root       10057  0.1  0.0      0     0 ?        I    10:35   0:01 [kworker/u256:4-events_unboun
+devops     10085  0.0  2.7 325660 53888 ?        Sl   10:35   0:00 /snap/firefox/3836/usr/lib/fi
+devops     11058  0.0  0.2  11272  5376 pts/4    Ss   10:38   0:00 bash
+root       11172  0.2  0.0      0     0 ?        I    10:39   0:03 [kworker/0:1-events]
+devops     11252  0.0  0.5  23544 10240 pts/4    T    10:41   0:00 vim ps-log.txt
+root       11255  0.0  0.0      0     0 ?        I<   10:41   0:00 [kworker/0:0H-ttm]
+devops     11257  0.0  0.1   8388  2304 pts/4    R+   10:41   0:00 script
+devops     11258  0.0  0.2  11272  5376 pts/7    Ss   10:41   0:00 bash -i
+root       11291  1.1  0.0      0     0 ?        I    10:43   0:13 [kworker/1:1-events]
+root       11346  0.5  0.0      0     0 ?        I    10:46   0:05 [kworker/0:0-events]
+root       11356  0.0  0.0      0     0 ?        I    10:50   0:00 [kworker/u256:0-events_unboun
+devops     11363  0.0  3.5 2386760 70272 ?       Sl   10:50   0:00 /snap/firefox/3836/usr/lib/fi
+devops     11402  0.0  3.5 2386760 70144 ?       Sl   10:55   0:00 /snap/firefox/3836/usr/lib/fi
+root       11420  1.1  0.0      0     0 ?        I    10:56   0:04 [kworker/0:2-events]
+root       11421  0.3  0.0      0     0 ?        I    10:57   0:01 [kworker/1:0-events]
+devops     11443  0.6  2.9 2794244 58336 ?       Sl   11:00   0:01 gjs /usr/share/gnome-shell/ex
+root       11479  0.0  0.0      0     0 ?        I<   11:00   0:00 [kworker/1:2H-ttm]
+devops     11498  0.2  3.5 2386772 70400 ?       Sl   11:00   0:00 /snap/firefox/3836/usr/lib/fi
+devops     11525  0.1  0.1   8388  2304 pts/7    R+   11:01   0:00 script -a ps-log.txt
+devops     11526  0.0  0.2  11272  5376 pts/10   Ss   11:01   0:00 bash -i
+root       11533  0.0  0.0      0     0 ?        I<   11:02   0:00 [kworker/1:3H-ttm]
+root       11534  0.0  0.0      0     0 ?        I<   11:02   0:00 [kworker/0:1H-kblockd]
+root       11536  0.1  0.0      0     0 ?        I    11:02   0:00 [kworker/1:2-events_freezable
+devops     11538  0.2  0.1   8388  2176 pts/10   R+   11:02   0:00 script
+devops     11539  0.1  0.2  11272  5376 pts/11   Ss   11:02   0:00 bash -i
+devops     11545  0.2  0.1   8388  2304 pts/11   S+   11:02   0:00 script -a ps-log.txt
+devops     11546  0.1  0.2  11272  5376 pts/12   Ss   11:02   0:00 bash -i
+devops     11556  0.0  0.1  12672  3328 pts/12   R+   11:03   0:00 ps aux
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git init
+[?2004lReinitialized existing Git repository in /home/devops/codeby-devops/.git/
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git add .
+[?2004l[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git push
+[?2004lEverything up-to-date
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git push[K[K[K0-events]
+devops     11443  0.6  2.9 2794244 58336 ?       Sl   11:00   0:01 gjs /usr/share/gnome-shell/ex
+root       11479  0.0  0.0      0     0 ?        I<   11:00   0:00 [kworker/1:2H-ttm]
+devops     11498  0.2  3.5 2386772 70400 ?       Sl   11:00   0:00 /snap/firefox/3836/usr/lib/fi
+devops     11525  0.1  0.1   8388  2304 pts/7    R+   11:01   0:00 script -a ps-log.txt
+devops     11526  0.0  0.2  11272  5376 pts/10   Ss   11:01   0:00 bash -i
+root       11533  0.0  0.0      0     0 ?        I<   11:02   0:00 [kworker/1:3H-ttm]
+root       11534  0.0  0.0      0     0 ?        I<   11:02   0:00 [kworker/0:1H-kblockd]
+root       11536  0.1  0.0      0     0 ?        I    11:02   0:00 [kworker/1:2-events_freezable
+devops     11538  0.2  0.1   8388  2176 pts/10   R+   11:02   0:00 script
+devops     11539  0.1  0.2  11272  5376 pts/11   Ss   11:02   0:00 bash -i
+devops     11545  0.2  0.1   8388  2304 pts/11   S+   11:02   0:00 script -a ps-log.txt
+devops     11546  0.1  0.2  11272  5376 pts/12   Ss   11:02   0:00 bash -i
+devops     11556  0.0  0.1  12672  3328 pts/12   R+   11:03   0:00 ps aux
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git init
+[?2004lReinitialized existing Git repository in /home/devops/codeby-devops/.git/
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git add .
+[?2004l[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git push
+[?2004lEverything up-to-date
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git push[K[K[K[K[K[K[K[Kgit checkout lesson4
+[?2004lA	.ps-log.txt.swp
+A	aux
+A	ps-log.txt
+A	typescript
+Already on 'lesson4'
+Your branch is up to date with 'origin/lesson4'.
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git [K[K[K[Kgir x[K[K[Kt clone[K[K[K[K[K[K[K[K[Kgit checkout lesson4push[Kadd .[1Pinit[2Pps auxscript -c ps aux ps-log.txtexit[Kscript[1Pclearssh devops@192.168.206.129clear[Kssh devops@192.168.206.129clear[Ksudo apt install afterstep[6PBanner /etc/mybannerexit[Kuptime[3Ppwdvim /etc/resolf.confcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvssh git@github.com:shpaktakur1/codeby-devops.git  [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cssh git@github.com:shpaktakur1/codeby-devops.git -l root[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ [C[29Pudo nano /etc/hosts
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C192.168.206.2 github.com[9Pping[C[C[C[C[C[C[C[C[C[C[Cssh -T git@github.com:shpaktakur1/codeby-devops.git[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit log[2Pcleargit log[2Pcle[K[K[K[K[Kgit checkout lesson4
+[?2004lA	.ps-log.txt.swp
+A	aux
+A	ps-log.txt
+A	typescript
+Already on 'lesson4'
+Your branch is up to date with 'origin/lesson4'.
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git [K[K[K[Kgir x[K[K[Kt clone[K[K[K[K[K[K[K[K[Kgit checkout lesson4push[Kadd .[1Pinit[2Pps auxscript -c ps aux ps-log.txtexit[Kscript[1Pclearssh devops@192.168.206.129clear[Kssh devops@192.168.206.129clear[Ksudo apt install afterstep[6PBanner /etc/mybannerexit[Kuptime[3Ppwdvim /etc/resolf.confcat[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cvssh git@github.com:shpaktakur1/codeby-devops.git  [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cssh git@github.com:shpaktakur1/codeby-devops.git -l root[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ [C[29Pudo nano /etc/hosts
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C192.168.206.2 github.com[9Pping[C[C[C[C[C[C[C[C[C[C[Cssh -T git@github.com:shpaktakur1/codeby-devops.git[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit log[2Pcleargit log[2Pclearsudo git push --set-upstream origin lesson4git push[Ksudo git checkout lesson4[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@sudo git branch[C[C[C[C[C[C[C[C[3Pgit checkout[C[C[C[C[C[C[C[C[3@sudo git branch[C[C[C[C[C[C[C[C[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo git checkout main[4Pgit branch lesson4sudo git checkout main[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Config --global --add safe.directory /home/codeby-devops[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd safe.directory /home/code[1Pby-devops[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ [C[C[C[C[Checkout main[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[K[3Plscd codeby-devops/ls[Ksudo git checkout main[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo git clone https://github.com/shpaktakur1/codeby-devops[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git clone https://github.com/shpaktakur1/codeby-de[5Pvops[A]0;devops@devops-virtual-machinarsudo git push --set-upstream origin lesson4git push[Ksudo git checkout lesson4[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[3@sudo git branch[C[C[C[C[C[C[C[C[3Pgit checkout[C[C[C[C[C[C[C[C[3@sudo git branch[C[C[C[C[C[C[C[C[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo git checkout main[4Pgit branch lesson4sudo git checkout main[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Config --global --add safe.directory /home/codeby-devops[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cadd safe.directory /home/code[1Pby-devops[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ [C[C[C[C[Checkout main[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cclear[K[3Plscd codeby-devops/ls[Ksudo git checkout main[5P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Csudo git clone https://github.com/shpaktakur1/codeby-devops[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git clone https://github.com/shpaktakur1/codeby-de[5Pvops[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ clear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/shpaktakur1/codeby-devops[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ sudo git clone https://github.com/shpaktakur1/codeby-devops[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git clone https://github.com/shpaktakur1/codeby-de[5Pvops[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ clear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd /home[3P..git checkout mainls[Kcd tmppstree -augit remote -vls[Kgit remote -v
+[?2004lorigin	git@github.com:shpaktakur1/codeby-devops.git (fetch)
+origin	git@github.com:shpaktakur1/codeby-devops.git (push)
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git clone [7mgit@github.com:shpaktakur1/codeby-devop[27m[7ms[27m[7m.git[27m[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ [C[C[C[C[C[C[C[C[C[Cgit@github.com:shpaktakur1/codeby-devops.git
+[?2004lCloning into 'codeby-devops'...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ ^[[200~ssh-keygen -t rsa~[K[1P[1P[1P[1P[1P[2P[1@\[1P
+[?2004lGenerating public/private rsa key pair.
+Enter file in which to save the key (/home/devops/.ssh/id_rsa): 
+/he: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ clear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cgit clone https://github.com/shpaktakur1/codeby-devops[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ sudo git clone https://github.com/shpaktakur1/codeby-devops[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git clone https://github.com/shpaktakur1/codeby-de[5Pvops[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ clear[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cd /home[3P..git checkout mainls[Kcd tmppstree -augit remote -vls[Kgit remote -v
+[?2004lorigin	git@github.com:shpaktakur1/codeby-devops.git (fetch)
+origin	git@github.com:shpaktakur1/codeby-devops.git (push)
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ git clone [7mgit@github.com:shpaktakur1/codeby-devop[27m[7ms[27m[7m.git[27m[A]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ [C[C[C[C[C[C[C[C[C[Cgit@github.com:shpaktakur1/codeby-devops.git
+[?2004lCloning into 'codeby-devops'...
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ ^[[200~ssh-keygen -t rsa~[K[1P[1P[1P[1P[1P[2P[1@\[1P
+[?2004lGenerating public/private rsa key pair.
+Enter file in which to save the key (/home/devops/.ssh/id_rsa): 
+/home/devops/.ssh/id_rsa already exists.
+Overwrite (y/n)? y
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/devops/.ssh/id_rsa
+Your public key has been saved in /home/devops/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:PEMHqa+H6Va3OWjJ5n1ISP2fGa+bEwX/Wmk9EpQ2Krw devops@devops-virtual-machine
+The key's randomart image is:
++---[RSA 3072]----+
+|        ..    .  |
+|        ..   =.  |
+|       .o.. + .o |
+|      .o.+.. .  o|
+|       oS.o.  ..+|
+|        +Eo ..o++|
+|       * = + .oO.|
+|      = B.= . *..|
+|     o.=. .o  ++ |
++----[SHA256]-----+
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ [K]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ c[Kcat ~/.ssh/id_rss[Ka.pub
+[?2004lssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC5Ysz4HnQC4JPz/99tWSSN0xLtgLye3AWS9GIg8gu737tQOWVv5inyir9LBqKwZvoCIxkTsvkZRVPI/oJ6GSckW9WVNXdtnXqGQZtBLbWtvLk9O0uO2MUWjo8lqIC3FcjoBLqYxUMTy3wdmzfpbuH8GL3FcLW8s5FuZrhTKWgyBh2ESvaVDc4uUbvohkcA3bvx3XKehzjceE2gQqCC1794Vn1R4LQ5GtN7ZrV9KgE8FPaXGjD/FttHiywXOvGhAPG7E6OYfcCPwonw21ejZofuOQtrWhZTNyI/bqgZlGw2vxQxAwghgVgQRRaMmK+Nj99AXDZXhRnZcg/ntpu6FA6q4NcSWRSZa75EUBiipL8na9dMavC+u4RrWK9ZwdyizCl60Td/nVn5Ct0iPlSWc3KBjAwT25jMLArcMr1S6dey09HQSTGcaDIaSr9xvOdfNAdbW60+pIYMVdYT2OGsTXyiotGbXVadptXwWEgqtg1W0Ib8L3Wt4ZxW/y3X+27yo8c= devops@devops-virtual-machine
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ cat ~/.ssh/id_rsa.pub[4Pssh-keygen -t rsagit clone git@github.com:shpaktakur1/codeby-devops.gitome/devops/.ssh/id_rsa already exists.
+Overwrite (y/n)? y
+Enter passphrase (empty for no passphrase): 
+Enter same passphrase again: 
+Your identification has been saved in /home/devops/.ssh/id_rsa
+Your public key has been saved in /home/devops/.ssh/id_rsa.pub
+The key fingerprint is:
+SHA256:PEMHqa+H6Va3OWjJ5n1ISP2fGa+bEwX/Wmk9EpQ2Krw devops@devops-virtual-machine
+The key's randomart image is:
++---[RSA 3072]----+
+|        ..    .  |
+|        ..   =.  |
+|       .o.. + .o |
+|      .o.+.. .  o|
+|       oS.o.  ..+|
+|        +Eo ..o++|
+|       * = + .oO.|
+|      = B.= . *..|
+|     o.=. .o  ++ |
++----[SHA256]-----+
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ [K]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ c[Kcat ~/.ssh/id_rss[Ka.pub
+[?2004lssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC5Ysz4HnQC4JPz/99tWSSN0xLtgLye3AWS9GIg8gu737tQOWVv5inyir9LBqKwZvoCIxkTsvkZRVPI/oJ6GSckW9WVNXdtnXqGQZtBLbWtvLk9O0uO2MUWjo8lqIC3FcjoBLqYxUMTy3wdmzfpbuH8GL3FcLW8s5FuZrhTKWgyBh2ESvaVDc4uUbvohkcA3bvx3XKehzjceE2gQqCC1794Vn1R4LQ5GtN7ZrV9KgE8FPaXGjD/FttHiywXOvGhAPG7E6OYfcCPwonw21ejZofuOQtrWhZTNyI/bqgZlGw2vxQxAwghgVgQRRaMmK+Nj99AXDZXhRnZcg/ntpu6FA6q4NcSWRSZa75EUBiipL8na9dMavC+u4RrWK9ZwdyizCl60Td/nVn5Ct0iPlSWc3KBjAwT25jMLArcMr1S6dey09HQSTGcaDIaSr9xvOdfNAdbW60+pIYMVdYT2OGsTXyiotGbXVadptXwWEgqtg1W0Ib8L3Wt4ZxW/y3X+27yo8c= devops@devops-virtual-machine
+[?2004h]0;devops@devops-virtual-machine: ~/codeby-devops[01;32mdevops@devops-virtual-machine[00m:[01;34m~/codeby-devops[00m$ cat ~/.ssh/id_rsa.pub[4Pssh-keygen -t rsagit clone git@github.com:shpaktakur1/codeby-devops.gitremote -v[Kclone git@github.com:shpaktakur1/codeby-devops.git
+[?2004lCloning into 'codeby-devops'...
+remote: Enumerating objects: 58, done.[K
+remote: Counting objects:   1% (1/58)[Kremote: Counting objects:   3% (2/58)[Kremote: Counting objects:   5% (3/58)[Kremote: Counting objects:   6% (4/58)[Kremote: Counting objects:   8% (5/58)[Kremote: Counting objects:  10% (6/58)[Kremote: Counting objects:  12% (7/58)[Kremote: Counting objects:  13% (8/58)[Kremote: Counting objects:  15% (9/58)[Kremote: Counting objects:  17% (10/58)[Kremote: Counting objects:  18% (11/58)[Kremote: Counting objects:  20% (12/58)[Kremote: Counting objects:  22% (13/58)[Kremote: Counting objects:  24% (14/58)[Kremote: Counting objects:  25% (15/58)[Kremote: Counting objects:  27% (16/58)[Kremote: Counting objects:  29% (17/58)[Kremote: Counting objects:  31% (18/58)[Kremote: Counting objects:  32% (19/58)[Kremote: Counting objects:  34% (20/58)[Kremote: Counting objects:  36% (21/58)[Kremote: Counting objects:  37% (22/58)[Kremote: Counting objects:  39% (23/58)[Kremote: Counting objects:  41% (24/58)[Kremote: Counting objects:  43% (25/58)[Kremote: Counting objects:  44% (26/58)[Kremote: Counting objects:  46% (27/58)[Kremote: Counting objects:  48% (28/58)[Kremote: Counting objects:  50% (29/58)[Kremote: Counting objects:  51% (30/58)[Kremote: Counting objects:  53% (31/58)[Kremote: Counting objects:  55% (32/58)[Kremote: Counting objects:  56% (33/58)[Kremote: Counting objects:  58% (34/58)[Kremote: Counting objects:  60% (35/58)[Kremote: Counting objects:  62% (36/58)[Kremote: Counting objects:  63% (37/58)[Kremote: Counting objects:  65% (38/58)[Kremote: Counting objects:  67% (39/58)[Kremote: Counting objects:  68% (40/58)[Kremote: Counting objects:  70% (41/58)[Kremote: Counting objects:  72% (42/58)[Kremote: Counting objects:  74% (43/58)[Kremote: Counting objects:  75% (44/58)[Kremote: Counting objects:  77% (45/58)[Kremote: Counting objects:  79% (46/58)[Kremote: Counting objects:  81% (47/58)[Kremote: Counting objects:  82% (48/58)[Kremote: Counting objects:  84% (49/58)[Kremote: Counting objects:  86% (50/58)[Kremote: Couremote -v[Kclone git@github.com:shpaktakur1/codeby-devops.git
+[?2004lCloning into 'codeby-devops'...
+remote: Enumerating objects: 58, done.[K
+remote: Counting objects:   1% (1/58)[Kremote: Counting objects:   3% (2/58)[Kremote: Counting objects:   5% (3/58)[Kremote: Counting objects:   6% (4/58)[Kremote: Counting objects:   8% (5/58)[Kremote: Counting objects:  10% (6/58)[Kremote: Counting objects:  12% (7/58)[Kremote: Counting objects:  13% (8/58)[Kremote: Counting objects:  15% (9/58)[Kremote: Counting objects:  17% (10/58)[Kremote: Counting objects:  18% (11/58)[Kremote: Counting objects:  20% (12/58)[Kremote: Counting objects:  22% (13/58)[Kremote: Counting objects:  24% (14/58)[Kremote: Counting objects:  25% (15/58)[Kremote: Counting objects:  27% (16/58)[Kremote: Counting objects:  29% (17/58)[Kremote: Counting objects:  31% (18/58)[Kremote: Counting objects:  32% (19/58)[Kremote: Counting objects:  34% (20/58)[Kremote: Counting objects:  36% (21/58)[Kremote: Counting objects:  37% (22/58)[Kremote: Counting objects:  39% (23/58)[Kremote: Counting objects:  41% (24/58)[Kremote: Counting objects:  43% (25/58)[Kremote: Counting objects:  44% (26/58)[Kremote: Counting objects:  46% (27/58)[Kremote: Counting objects:  48% (28/58)[Kremote: Counting objects:  50% (29/58)[Kremote: Counting objects:  51% (30/58)[Kremote: Counting objects:  53% (31/58)[Kremote: Counting objects:  55% (32/58)[Kremote: Counting objects:  56% (33/58)[Kremote: Counting objects:  58% (34/58)[Kremote: Counting objects:  60% (35/58)[Kremote: Counting objects:  62% (36/58)[Kremote: Counting objects:  63% (37/58)[Kremote: Counting objects:  65% (38/58)[Kremote: Counting objects:  67% (39/58)[Kremote: Counting objects:  68% (40/58)[Kremote: Counting objects:  70% (41/58)[Kremote: Counting objects:  72% (42/58)[Kremote: Counting objects:  74% (43/58)[Kremote: Counting objects:  75% (44/58)[Kremote: Counting objects:  77% (45/58)[Kremote: Counting objects:  79% (46/58)[Kremote: Counting objects:  81% (47/58)[Kremote: Counting objects:  82% (48/58)[Kremote: Counting objects:  84% (49/58)[Kremote: Counting objects:  86% (50/58)[Kremote: Counting objects:  87% (51/58)[Kremote: Counting objects:  89% (52/58)[Kremote: Counting objects:  91% (53/58)[Kremote: Counting objects:  93% (54/58)[Kremote: Counting objects:  94% (55/58)[Kremote: Counting objects:  96% (56/58)[Kremote: Counting objects:  98% (57/58)[Kremote: Counting objects: 100% (58/58)[Kremote: Counting objects: 100% (58/58), done.[K
+remote: Compressing objects:   3% (1/32)[Kremote: Compressing objects:   6% (2/32)[Kremote: Compressing objects:   9% (3/32)[Kremote: Compressing objects:  12% (4/32)[Kremote: Compressing objects:  15% (5/32)[Kremote: Compressing objects:  18% (6/32)[Kremote: Compressing objects:  21% (7/32)[Kremote: Compressing objects:  25% (8/32)[Kremote: Compressing objects:  28% (9/32)[Kremote: Compressing objects:  31% (10/32)[Kremote: Compressing objects:  34% (11/32)[Kremote: Compressing objects:  37% (12/32)[Kremote: Compressing objects:  40% (13/32)[Kremote: Compressing objects:  43% (14/32)[Kremote: Compressing objects:  46% (15/32)[Kremote: Compressing objects:  50% (16/32)[Kremote: Compressing objects:  53% (17/32)[Kremote: Compressing objects:  56% (18/32)[Kremote: Compressing objects:  59% (19/32)[Kremote: Compressing objects:  62% (20/32)[Kremote: Compressing objects:  65% (21/32)[Kremote: Compressing objects:  68% (22/32)[Kremote: Compressing objects:  71% (23/32)[Kremote: Compressing objects:  75% (24/32)[Kremote: Compressing objects:  78% (25/32)[Kremote: Compressing objects:  81% (26/32)[Kremote: Compressing objects:  84% (27/32)[Kremote: Compressing objects:  87% (28/32)[Kremote: Compressing objects:  90% (29/32)[Kremote: Compressing objects:  93% (30/32)[Kremote: Compressing objects:  96% (31/32)[Kremote: Compressing objects: 100% (32/32)[Kremote: Compressing objectnting objects:  87% (51/58)[Kremote: Counting objects:  89% (52/58)[Kremote: Counting objects:  91% (53/58)[Kremote: Counting objects:  93% (54/58)[Kremote: Counting objects:  94% (55/58)[Kremote: Counting objects:  96% (56/58)[Kremote: Counting objects:  98% (57/58)[Kremote: Counting objects: 100% (58/58)[Kremote: Counting objects: 100% (58/58), done.[K
+remote: Compressing objects:   3% (1/32)[Kremote: Compressing objects:   6% (2/32)[Kremote: Compressing objects:   9% (3/32)[Kremote: Compressing objects:  12% (4/32)[Kremote: Compressing objects:  15% (5/32)[Kremote: Compressing objects:  18% (6/32)[Kremote: Compressing objects:  21% (7/32)[Kremote: Compressing objects:  25% (8/32)[Kremote: Compressing objects:  28% (9/32)[Kremote: Compressing objects:  31% (10/32)[Kremote: Compressing objects:  34% (11/32)[Kremote: Compressing objects:  37% (12/32)[Kremote: Compressing objects:  40% (13/32)[Kremote: Compressing objects:  43% (14/32)[Kremote: Compressing objects:  46% (15/32)[Kremote: Compressing objects:  50% (16/32)[Kremote: Compressing objects:  53% (17/32)[Kremote: Compressing objects:  56% (18/32)[Kremote: Compressing objects:  59% (19/32)[Kremote: Compressing objects:  62% (20/32)[Kremote: Compressing objects:  65% (21/32)[Kremote: Compressing objects:  68% (22/32)[Kremote: Compressing objects:  71% (23/32)[Kremote: Compressing objects:  75% (24/32)[Kremote: Compressing objects:  78% (25/32)[Kremote: Compressing objects:  81% (26/32)[Kremote: Compressing objects:  84% (27/32)[Kremote: Compressing objects:  87% (28/32)[Kremote: Compressing objects:  90% (29/32)[Kremote: Compressing objects:  93% (30/32)[Kremote: Compressing objects:  96% (31/32)[Kremote: Compressing objects: 100% (32/32)[Kremote: Compressing objects: 100% (32/32), done.[K
+Receiving objects:   1% (1/58)Receiving objects:   3% (2/58)Receiving objects:   5% (3/58)Receiving objects:   6% (4/58)Receiving objects:   8% (5/58)Receiving objects:  10% (6/58)Receiving objects:  12% (7/58)Receiving objects:  13% (8/58)Receiving objects:  15% (9/58)remote: Total 58 (delta 12), reused 25 (delta 1), pack-reused 0[K
+Receiving objects:  17% (10/58)Receiving objects:  18% (11/58)Receiving objects:  20% (12/58)Receiving objects:  22% (13/58)Receiving objects:  24% (14/58)Receiving objects:  25% (15/58)Receiving objects:  27% (16/58)Receiving objects:  29% (17/58)Receiving objects:  31% (18/58)Receiving objects:  32% (19/58)Receiving objects:  34% (20/58)Receiving objects:  36% (21/58)Receiving objects:  37% (22/58)Receiving objects:  39% (23/58)Receiving objects:  41% (24/58)Receiving objects:  43% (25/58)Receiving objects:  44% (26/58)Receiving objects:  46% (27/58)Receiving objects:  48% (28/58)Receiving objects:  50% (29/58)Receiving objects:  51% (30/58)Receiving objects:  53% (31/58)Receiving objects:  55% (32/58)Receiving objects:  56% (33/58)Receiving objects:  58% (34/58)Receiving objects:  60% (35/58)Receiving objects:  62% (36/58)Receiving objects:  63% (37/58)Receiving objects:  65% (38/58)Receiving objects:  67% (39/58)Receiving objects:  68% (40/58)Receiving objects:  70% (41/58)Receiving objects:  72% (42/58)Receiving objects:  74% (43/58)Receiving objects:  75% (44/58)Receiving objects:  77% (45/58)Receiving objects:  79% (46/58)Receiving objects:  81% (47/58)Receiving objects:  82% (48/58)Receiving objects:  84% (49/58)Receiving objects:  86% (50/58)Receiving objects:  87% (51/58)Receiving objects:  89% (52/58)Receiving objects:  91% (53/58)Receiving objects:  93% (54/58)Receiving objects:  94% (55/58)Receiving objects:  96% (56/58)Receiving objects:  98% (57/58)Receiving objects: 100% (58/58)Receiving objects: 100% (58/58), 12.73 KiB | 283.00 KiB/s, done.
+Resolving deltas:   0% (0/12)Resolving deltas:   8% (1/12)Resolving deltas:  16% (2/12)Resolving deltas:  25% (3/12)Resolving deltas:  33% (4/12)Resolving deltas:  41% (5/12)Resolving deltas:  50% (6/12)Resolving deltas:  58% (7/12)Resolving deltas
